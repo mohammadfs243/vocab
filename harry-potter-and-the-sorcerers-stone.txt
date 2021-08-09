@@ -1,162 +1,43 @@
-Harry Potter
-And the Sorcerer’s Stone
+one
+the boy who lived · 1
+two
+the vanishing glass · 18
+three
+the letters from no one · 31
+four
+the keeper of the keys · 46
+five
+diagon alley · 61
+six
+the journey from platform
+nine and three-quarters · 88
+seven
+the sorting hat · 113
+eight
+the potions master · 131
+nine
+the midnight duel · 143
+ten
+halloween · 163
+eleven
+quidditch · 180
+twelve
+the mirror of erised · 194
+thirteen
+nicholas flamel · 215
+fourteen
+norbert the norwegian ridgeback · 228
+fifteen
+the forbidden forest · 242
+sixteen
+through the trapdoor · 262
+seventeen
+the man with two faces · 288
 
-ALSO BY J. K. ROWLING
+---
 
-Harry Potter and the Sorcerer’s Stone
-Year One at Hogwarts
-Harry Potter and the Chamber of Secrets
-Year Two at Hogwarts
-Harry Potter and the Prisoner of Azkaban
-Year Three at Hogwarts
-Harry Potter and the Goblet of Fire
-Year Four at Hogwarts
-Harry Potter and the Order of the Phoenix
-Year Five at Hogwarts
-Harry Potter and the Half-Blood Prince
-Year Six at Hogwarts
-Harry Potter and the Deathly Hallows
-Year Seven at Hogwarts
-
-Harry
-Potter
-and the Sorcerer’s Stone
-
-BY
-
-J. K. Rowling
-ILLUSTRATIONS BY Mary GrandPré
-
-ARTHUR A. LEVINE BOOKS
-AN IMPRINT OF SCHOLASTIC Press.
-
-For Jessica, who loves stories
-for Anne, who loved them too;
-and for Di, who heard this one first.
-
-Text copyright © 1997 by J.K. Rowling
-Illustrations by Mary GrandPré copyright © 1998 Warner Bros.
-All rights reserved. Published by Scholastic Press, a division of Scholastic Inc.,
-Publishers since 1920
-SCHOLASTIC, SCHOLASTIC PRESS, and the LANTERN LOGO
-are trademarks and/or registered trademarks of Scholastic Inc.
-HARRY POTTER
-
-and all related characters and elements are trademarks of Warner Bros.
-
-No part of this publication may be reproduced, or stored in a retrieval system, or transmitted
-in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise,
-without written permission of the publisher. For information regarding permissions, write
-to Scholastic Inc., Attention: Permissions Department, 555 Broadway, New York, NY 10012.
-Library of Congress Cataloging-in-Publication Data
-Rowling, J.K.
-Harry Potter and the Sorcerer's Stone / by J.K. Rowling
-p. cm.
-Summary: Rescued from the outrageous neglect of his aunt and uncle, a young boy
-with a great destiny proves his worth while attending Hogwarts School
-of Witchcraft and Wizardry.
-ISBN 0-590-35340-3
-[1. Fantasy — Fiction. 2. Witches — Fiction. 3. Wizards — Fiction.
-4. Schools — Fiction. 5. England — Fiction.] I. Title.
-PZ7.R79835Har 1998
-[Fic] — dc21 97-39059
-64 65 66 67 68 69 70 71 72 05
-Printed in U.S.A. 10
-First American edition, October 1998
-
-Contents
-ONE
-
-The Boy Who Lived · 1
-
-TWO
-
-The Vanishing Glass · 18
-
-THREE
-
-The Letters from No One · 31
-
-FOUR
-
-The Keeper of the Keys · 46
-
-FIVE
-
-Diagon Alley · 61
-
-SIX
-
-The Journey from Platform
-Nine and Three-quarters · 88
-
-SEVEN
-
-The Sorting Hat · 113
-
-EIGHT
-
-The Potions Master · 131
-
-
-5
-
-
-
-Contents
-
-NINE
-
-The Midnight Duel · 143
-
-TEN
-
-Halloween · 163
-
-ELEVEN
-
-Quidditch · 180
-
-TWELVE
-
-The Mirror of Erised · 194
-
-THIRTEEN
-
-Nicholas Flamel · 215
-
-FOURTEEN
-
-Norbert the Norwegian Ridgeback · 228
-
-FIFTEEN
-
-The Forbidden Forest · 242
-
-SIXTEEN
-
-Through the Trapdoor · 262
-
-SEVENTEEN
-
-The Man with Two Faces · 288
-
-
-
-6
-
-
-
-Harry Potter
-And the Sorcerer’s Stone
-
-CHAPTER ONE
-
-THE BOY WHO LIVED
-
-M
-
-r. and Mrs. Dursley, of number four, Privet Drive, were
+|ONE|
+Mr. and Mrs. Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t
 hold with such nonsense.
@@ -168,13 +49,7 @@ garden fences, spying on the neighbors. The Dursleys had a small
 son called Dudley and in their opinion there was no finer boy anywhere.
 The Dursleys had everything they wanted, but they also had a
 secret, and their greatest fear was that somebody would discover it.
-
-
 1
-
-
-
-CHAPTER ONE
 They didn’t think they could bear it if anyone found out about the
 Potters. Mrs. Potter was Mrs. Dursley’s sister, but they hadn’t met
 for several years; in fact, Mrs. Dursley pretended she didn’t have a
@@ -202,13 +77,7 @@ It was on the corner of the street that he noticed the first sign of
 something peculiar — a cat reading a map. For a second, Mr.
 Dursley didn’t realize what he had seen — then he jerked his head
 around to look again. There was a tabby cat standing on the corner
-
-
 2
-
-
-
-THE BOY WHO LIVED
 of Privet Drive, but there wasn’t a map in sight. What could he
 have been thinking of? It must have been a trick of the light. Mr.
 Dursley blinked and stared at the cat. It stared back. As Mr. Dursley drove around the corner and up the road, he watched the cat in
@@ -233,13 +102,8 @@ minutes later, Mr. Dursley arrived in the Grunnings parking lot,
 his mind back on drills.
 Mr. Dursley always sat with his back to the window in his office
 on the ninth floor. If he hadn’t, he might have found it harder to
-concentrate on drills that morning. He didn’t see the owls swoop
-
+concentrate on drills that morning. He didn’t see the owls swoop
 3
-
-
-
-CHAPTER ONE
 ing past in broad daylight, though people down in the street did;
 they pointed and gazed open-mouthed as owl after owl sped overhead. Most of them had never seen an owl even at nighttime. Mr.
 Dursley, however, had a perfectly normal, owl-free morning. He
@@ -265,13 +129,7 @@ changed his mind. He put the receiver back down and stroked his
 mustache, thinking . . . no, he was being stupid. Potter wasn’t such
 an unusual name. He was sure there were lots of people called Potter who had a son called Harry. Come to think of it, he wasn’t even
 sure his nephew was called Harry. He’d never even seen the boy. It
-
-
 4
-
-
-
-THE BOY WHO LIVED
 might have been Harvey. Or Harold. There was no point in worrying Mrs. Dursley; she always got so upset at any mention of her
 sister. He didn’t blame her — if he’d had a sister like that . . . but all
 the same, those people in cloaks . . .
@@ -296,13 +154,7 @@ spotted that morning. It was now sitting on his garden wall. He
 was sure it was the same one; it had the same markings around its
 eyes.
 “Shoo!” said Mr. Dursley loudly.
-
-
 5
-
-
-
-CHAPTER ONE
 The cat didn’t move. It just gave him a stern look. Was this normal cat behavior? Mr. Dursley wondered. Trying to pull himself together, he let himself into the house. He was still determined not to
 mention anything to his wife.
 Mrs. Dursley had had a nice, normal day. She told him over dinner all about Mrs. Next Door’s problems with her daughter and how
@@ -327,13 +179,7 @@ promise a wet night tonight.”
 Mr. Dursley sat frozen in his armchair. Shooting stars all over
 Britain? Owls flying by daylight? Mysterious people in cloaks all
 over the place? And a whisper, a whisper about the Potters . . .
-
-
 6
-
-
-
-THE BOY WHO LIVED
 Mrs. Dursley came into the living room carrying two cups of
 tea. It was no good. He’d have to say something to her. He cleared
 his throat nervously. “Er — Petunia, dear — you haven’t heard from
@@ -360,13 +206,7 @@ to bed. While Mrs. Dursley was in the bathroom, Mr. Dursley
 crept to the bedroom window and peered down into the front garden. The cat was still there. It was staring down Privet Drive as
 though it were waiting for something.
 Was he imagining things? Could all this have anything to do
-
-
 7
-
-
-
-CHAPTER ONE
 with the Potters? If it did . . . if it got out that they were related to
 a pair of — well, he didn’t think he could bear it.
 The Dursleys got into bed. Mrs. Dursley fell asleep quickly but
@@ -393,13 +233,7 @@ high-heeled, buckled boots. His blue eyes were light, bright, and
 sparkling behind half-moon spectacles and his nose was very long
 and crooked, as though it had been broken at least twice. This
 man’s name was Albus Dumbledore.
-
-
 8
-
-
-
-THE BOY WHO LIVED
 Albus Dumbledore didn’t seem to realize that he had just arrived
 in a street where everything from his name to his boots was unwelcome. He was busy rummaging in his cloak, looking for something. But he did seem to realize he was being watched, because he
 looked up suddenly at the cat, which was still staring at him from
@@ -426,13 +260,7 @@ eyes. She, too, was wearing a cloak, an emerald one. Her black hair
 was drawn into a tight bun. She looked distinctly ruffled.
 “How did you know it was me?” she asked.
 “My dear Professor, I’ve never seen a cat sit so stiffly.”
-
-
 9
-
-
-
-CHAPTER ONE
 “You’d be stiff if you’d been sitting on a brick wall all day,” said
 Professor McGonagall.
 “All day? When you could have been celebrating? I must have
@@ -459,13 +287,7 @@ thankful for. Would you care for a lemon drop?”
 “A what?”
 “A lemon drop. They’re a kind of Muggle sweet I’m rather
 fond of.”
-
-
 10
-
-
-
-THE BOY WHO LIVED
 “No, thank you,” said Professor McGonagall coldly, as though
 she didn’t think this was the moment for lemon drops. “As I say,
 even if You-Know-Who has gone —”
@@ -491,13 +313,7 @@ was most anxious to discuss, the real reason she had been waiting
 on a cold, hard wall all day, for neither as a cat nor as a woman had
 she fixed Dumbledore with such a piercing stare as she did now. It
 was plain that whatever “everyone” was saying, she was not going
-
-
 11
-
-
-
-CHAPTER ONE
 to believe it until Dumbledore told her it was true. Dumbledore,
 however, was choosing another lemon drop and did not answer.
 “What they’re saying,” she pressed on, “is that last night Voldemort turned up in Godric’s Hollow. He went to find the Potters. The rumor is that Lily and James Potter are — are — that
@@ -523,13 +339,7 @@ Professor McGonagall pulled out a lace handkerchief and
 dabbed at her eyes beneath her spectacles. Dumbledore gave a great
 sniff as he took a golden watch from his pocket and examined it. It
 was a very odd watch. It had twelve hands but no numbers; instead, little planets were moving around the edge. It must have
-
-
 12
-
-
-
-THE BOY WHO LIVED
 made sense to Dumbledore, though, because he put it back in his
 pocket and said, “Hagrid’s late. I suppose it was he who told you I’d
 be here, by the way?”
@@ -558,13 +368,7 @@ head. Famous before he can walk and talk! Famous for something
 he won’t even remember! Can’t you see how much better off he’ll
 be, growing up away from all that until he’s ready to take it?”
 Professor McGonagall opened her mouth, changed her mind,
-
-
 13
-
-
-
-CHAPTER ONE
 swallowed, and then said, “Yes — yes, you’re right, of course. But
 how is the boy getting here, Dumbledore?” She eyed his cloak suddenly as though she thought he might be hiding Harry underneath
 it.
@@ -590,13 +394,7 @@ was holding a bundle of blankets.
 where did you get that motorcycle?”
 “Borrowed it, Professor Dumbledore, sir,” said the giant, climbing carefully off the motorcycle as he spoke. “Young Sirius Black
 lent it to me. I’ve got him, sir.”
-
-
 14
-
-
-
-THE BOY WHO LIVED
 “No problems, were there?”
 “No, sir — house was almost destroyed, but I got him out all
 right before the Muggles started swarmin’ around. He fell asleep as
@@ -621,13 +419,7 @@ let out a howl like a wounded dog.
 James dead — an’ poor little Harry off ter live with Muggles —”
 “Yes, yes, it’s all very sad, but get a grip on yourself, Hagrid, or
 we’ll be found,” Professor McGonagall whispered, patting Hagrid
-
-
 15
-
-
-
-CHAPTER ONE
 gingerly on the arm as Dumbledore stepped over the low garden
 wall and walked to the front door. He laid Harry gently on the
 doorstep, took a letter out of his cloak, tucked it inside Harry’s
@@ -655,13 +447,7 @@ He could just see the bundle of blankets on the step of number
 four.
 “Good luck, Harry,” he murmured. He turned on his heel and
 with a swish of his cloak, he was gone.
-
-
 16
-
-
-
-THE BOY WHO LIVED
 A breeze ruffled the neat hedges of Privet Drive, which lay silent
 and tidy under the inky sky, the very last place you would expect
 astonishing things to happen. Harry Potter rolled over inside his
@@ -673,20 +459,9 @@ weeks being prodded and pinched by his cousin Dudley. . . . He
 couldn’t know that at this very moment, people meeting in secret
 all over the country were holding up their glasses and saying in
 hushed voices: “To Harry Potter — the boy who lived!”
-
-
-
 17
-
-
-
-CHAPTER TWO
-
-THE VANISHING GLASS
-
-N
-
-early ten years had passed since the Dursleys had woken
+|TWO|
+Nearly ten years had passed since the Dursleys had woken
 up to find their nephew on the front step, but Privet Drive
 had hardly changed at all. The sun rose on the same tidy front gardens and lit up the brass number four on the Dursleys’ front door;
 it crept into their living room, which was almost exactly the same
@@ -698,13 +473,8 @@ blond boy riding his first bicycle, on a carousel at the fair, playing
 a computer game with his father, being hugged and kissed by his
 mother. The room held no sign at all that another boy lived in the
 house, too.
-
-
 18
-
-
-
-The Vanishing Glass
+The Vanishing Glass
 Yet Harry Potter was still there, asleep at the moment, but not
 for long. His Aunt Petunia was awake and it was her shrill voice
 that made the first noise of the day.
@@ -732,13 +502,7 @@ on. Harry was used to spiders, because the cupboard under the
 stairs was full of them, and that was where he slept.
 When he was dressed he went down the hall into the kitchen.
 The table was almost hidden beneath all Dudley’s birthday presents. It looked as though Dudley had gotten the new computer he
-
-
 19
-
-
-
-CHAPTER TWO
 wanted, not to mention the second television and the racing bike.
 Exactly why Dudley wanted a racing bike was a mystery to Harry,
 as Dudley was very fat and hated exercise — unless of course it involved punching somebody. Dudley’s favorite punching bag was
@@ -764,13 +528,8 @@ bacon.
 About once a week, Uncle Vernon looked over the top of his
 newspaper and shouted that Harry needed a haircut. Harry must
 have had more haircuts than the rest of the boys in his class put
-
-
 20
-
-
-
-The Vanishing Glass
+The Vanishing Glass
 together, but it made no difference, his hair simply grew that
 way — all over the place.
 Harry was frying eggs by the time Dudley arrived in the kitchen
@@ -799,13 +558,7 @@ he said slowly, “So I’ll have thirty . . . thirty . . .”
 “Oh.” Dudley sat down heavily and grabbed the nearest parcel.
 “All right then.”
 Uncle Vernon chuckled.
-
-
 21
-
-
-
-CHAPTER TWO
 “Little tyke wants his money’s worth, just like his father. ’Atta
 boy, Dudley!” He ruffled Dudley’s hair.
 At that moment the telephone rang and Aunt Petunia went to
@@ -834,13 +587,8 @@ The Dursleys often spoke about Harry like this, as though he
 wasn’t there — or rather, as though he was something very nasty
 that couldn’t understand them, like a slug.
 “What about what’s-her-name, your friend — Yvonne?”
-
-
 22
-
-
-
-The Vanishing Glass
+The Vanishing Glass
 “On vacation in Majorca,” snapped Aunt Petunia.
 “You could just leave me here,” Harry put in hopefully (he’d be
 able to watch what he wanted on television for a change and maybe
@@ -866,13 +614,7 @@ scrawny boy with a face like a rat. He was usually the one who held
 people’s arms behind their backs while Dudley hit them. Dudley
 stopped pretending to cry at once.
 Half an hour later, Harry, who couldn’t believe his luck, was sitting in the back of the Dursleys’ car with Piers and Dudley, on the
-
-
 23
-
-
-
-CHAPTER TWO
 way to the zoo for the first time in his life. His aunt and uncle
 hadn’t been able to think of anything else to do with him, but before they’d left, Uncle Vernon had taken Harry aside.
 “I’m warning you,” he had said, putting his large purple face
@@ -898,13 +640,8 @@ revolting old sweater of Dudley’s (brown with orange puff balls).
 The harder she tried to pull it over his head, the smaller it seemed
 to become, until finally it might have fitted a hand puppet, but
 certainly wouldn’t fit Harry. Aunt Petunia had decided it must
-
-
 24
-
-
-
-The Vanishing Glass
+The Vanishing Glass
 have shrunk in the wash and, to his great relief, Harry wasn’t punished.
 On the other hand, he’d gotten into terrible trouble for being
 found on the roof of the school kitchens. Dudley’s gang had been
@@ -929,13 +666,7 @@ Uncle Vernon nearly crashed into the car in front. He turned
 right around in his seat and yelled at Harry, his face like a gigantic
 beet with a mustache: “MOTORCYCLES DON’T FLY!”
 Dudley and Piers sniggered.
-
-
 25
-
-
-
-CHAPTER TWO
 “I know they don’t,” said Harry. “It was only a dream.”
 But he wished he hadn’t said anything. If there was one thing the
 Dursleys hated even more than his asking questions, it was his talking about anything acting in a way it shouldn’t, no matter if it was
@@ -962,13 +693,8 @@ After lunch they went to the reptile house. It was cool and dark
 in there, with lit windows all along the walls. Behind the glass, all
 sorts of lizards and snakes were crawling and slithering over bits of
 wood and stone. Dudley and Piers wanted to see huge, poisonous
-
-
 26
-
-
-
-The Vanishing Glass
+The Vanishing Glass
 cobras and thick, man-crushing pythons. Dudley quickly found
 the largest snake in the place. It could have wrapped its body twice
 around Uncle Vernon’s car and crushed it into a trash can — but at
@@ -995,13 +721,7 @@ The snake jerked its head toward Uncle Vernon and Dudley,
 then raised its eyes to the ceiling. It gave Harry a look that said
 quite plainly:
 “I get that all the time.”
-
-
 27
-
-
-
-CHAPTER TWO
 “I know,” Harry murmured through the glass, though he wasn’t
 sure the snake could hear him. “It must be really annoying.”
 The snake nodded vigorously.
@@ -1030,13 +750,8 @@ screamed and started running for the exits.
 As the snake slid swiftly past him, Harry could have sworn a low,
 hissing voice said, “Brazil, here I come. . . . Thanksss, amigo.”
 The keeper of the reptile house was in shock.
-
-
 28
-
-
-
-The Vanishing Glass
+The Vanishing Glass
 “But the glass,” he kept saying, “where did the glass go?”
 The zoo director himself made Aunt Petunia a cup of strong,
 sweet tea while he apologized over and over again. Piers and Dudley could only gibber. As far as Harry had seen, the snake hadn’t
@@ -1060,13 +775,7 @@ being in the car when his parents had died. Sometimes, when he
 strained his memory during long hours in his cupboard, he came
 up with a strange vision: a blinding flash of green light and a burning pain on his forehead. This, he supposed, was the crash, though
 he couldn’t imagine where all the green light came from. He
-
-
 29
-
-
-
-CHAPTER TWO
 couldn’t remember his parents at all. His aunt and uncle never
 spoke about them, and of course he was forbidden to ask questions.
 There were no photographs of them in the house.
@@ -1086,21 +795,9 @@ these people was the way they seemed to vanish the second Harry
 tried to get a closer look.
 At school, Harry had no one. Everybody knew that Dudley’s
 gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley’s gang.
-
-
-
 30
-
-
-
-CHAPTER THREE
-
-THE LETTERS
-FROM NO ONE
-
-T
-
-he escape of the Brazilian boa constrictor earned Harry his
+|THREE|
+The escape of the Brazilian boa constrictor earned Harry his
 longest-ever punishment. By the time he was allowed out of
 his cupboard again, the summer holidays had started and Dudley
 had already broken his new video camera, crashed his remote control airplane, and, first time out on his racing bike, knocked down
@@ -1113,13 +810,7 @@ Hunting.
 This was why Harry spent as much time as possible out of the
 house, wandering around and thinking about the end of the holidays, where he could see a tiny ray of hope. When September came
 he would be going off to secondary school and, for the first time in
-
-
 31
-
-
-
-CHAPTER THREE
 his life, he wouldn’t be with Dudley. Dudley had been accepted at
 Uncle Vernon’s old private school, Smeltings. Piers Polkiss was going there too. Harry, on the other hand, was going to Stonewall
 High, the local public school. Dudley thought this was very funny.
@@ -1143,20 +834,7 @@ Petunia burst into tears and said she couldn’t believe it was her Ickle
 Dudleykins, he looked so handsome and grown-up. Harry didn’t
 trust himself to speak. He thought two of his ribs might already
 have cracked from trying not to laugh.
-
-
-
-
-
-
 32
-
-
-
-
-
-THE LETTERS
-FROM NO ONE
 There was a horrible smell in the kitchen the next morning when
 Harry went in for breakfast. It seemed to be coming from a large
 metal tub in the sink. He went to have a look. The tub was full of
@@ -1184,13 +862,7 @@ doormat.
 “Get the mail, Harry.”
 “Make Dudley get it.”
 “Poke him with your Smelting stick, Dudley.”
-
-
 33
-
-
-
-CHAPTER THREE
 Harry dodged the Smelting stick and went to get the mail. Three
 things lay on the doormat: a postcard from Uncle Vernon’s sister
 Marge, who was vacationing on the Isle of Wight, a brown envelope that looked like a bill, and — a letter for Harry.
@@ -1214,14 +886,7 @@ his own joke.
 Harry went back to the kitchen, still staring at his letter. He
 handed Uncle Vernon the bill and the postcard, sat down, and
 slowly began to open the yellow envelope.
-
-
 34
-
-
-
-THE LETTERS
-FROM NO ONE
 Uncle Vernon ripped open the bill, snorted in disgust, and
 flipped over the postcard.
 “Marge’s ill,” he informed Aunt Petunia. “Ate a funny
@@ -1248,13 +913,7 @@ stick.
 “Get out, both of you,” croaked Uncle Vernon, stuffing the letter back inside its envelope.
 Harry didn’t move.
 “I WANT MY LETTER!” he shouted.
-
-
 35
-
-
-
-CHAPTER THREE
 “Let me see it!” demanded Dudley.
 “OUT!” roared Uncle Vernon, and he took both Harry and
 Dudley by the scruffs of their necks and threw them into the
@@ -1279,14 +938,7 @@ That evening when he got back from work, Uncle Vernon did
 something he’d never done before; he visited Harry in his cupboard.
 “Where’s my letter?” said Harry, the moment Uncle Vernon had
 squeezed through the door. “Who’s writing to me?”
-
-
 36
-
-
-
-THE LETTERS
-FROM NO ONE
 “No one. It was addressed to you by mistake,” said Uncle Vernon shortly. “I have burned it.”
 “It was not a mistake,” said Harry angrily, “it had my cupboard
 on it.”
@@ -1312,13 +964,7 @@ when his favorite program had been canceled; there was a large
 birdcage, which had once held a parrot that Dudley had swapped
 at school for a real air rifle, which was up on a shelf with the end all
 bent because Dudley had sat on it. Other shelves were full of
-
-
 37
-
-
-
-CHAPTER THREE
 books. They were the only things in the room that looked as
 though they’d never been touched.
 From downstairs came the sound of Dudley bawling at his
@@ -1343,14 +989,7 @@ around the neck from behind. After a minute of confused fighting,
 in which everyone got hit a lot by the Smelting stick, Uncle Vernon
 straightened up, gasping for breath, with Harry’s letter clutched in
 his hand.
-
-
 38
-
-
-
-THE LETTERS
-FROM NO ONE
 “Go to your cupboard — I mean, your bedroom,” he wheezed
 at Harry. “Dudley — go — just go.”
 Harry walked round and round his new room. Someone knew
@@ -1377,13 +1016,7 @@ into the kitchen and by the time he got back, the mail had arrived,
 right into Uncle Vernon’s lap. Harry could see three letters addressed in green ink.
 “I want —” he began, but Uncle Vernon was tearing the letters
 into pieces before his eyes.
-
-
 39
-
-
-
-CHAPTER THREE
 Uncle Vernon didn’t go to work that day. He stayed at home and
 nailed up the mail slot.
 “See,” he explained to Aunt Petunia through a mouthful of nails,
@@ -1409,18 +1042,7 @@ the dairy trying to find someone to complain to, Aunt Petunia
 shredded the letters in her food processor.
 “Who on earth wants to talk to you this badly?” Dudley asked
 Harry in amazement.
-
-
-
-
-
 40
-
-
-
-
-THE LETTERS
-FROM NO ONE
 On Sunday morning, Uncle Vernon sat down at the breakfast table
 looking tired and rather ill, but happy.
 “No post on Sundays,” he reminded them cheerfully as he
@@ -1449,13 +1071,7 @@ They drove. And they drove. Even Aunt Petunia didn’t dare
 ask where they were going. Every now and then Uncle Vernon
 would take a sharp turn and drive in the opposite direction for a
 while.
-
-
 41
-
-
-
-CHAPTER THREE
 “Shake ’em off . . . shake ’em off,” he would mutter whenever he
 did this.
 They didn’t stop to eat or drink all day. By nightfall Dudley was
@@ -1480,18 +1096,7 @@ Cokeworth
 Harry made a grab for the letter but Uncle Vernon knocked his
 hand out of the way. The woman stared.
 “I’ll take them,” said Uncle Vernon, standing up quickly and following her from the dining room.
-
-
-
-
-
 42
-
-
-
-
-THE LETTERS
-FROM NO ONE
 “Wouldn’t it be better just to go home, dear?” Aunt Petunia
 suggested timidly, hours later, but Uncle Vernon didn’t seem to
 hear her. Exactly what he was looking for, none of them knew. He
@@ -1517,13 +1122,7 @@ asked what he’d bought.
 out!”
 It was very cold outside the car. Uncle Vernon was pointing at
 what looked like a large rock way out at sea. Perched on top of the
-
-
 43
-
-
-
-CHAPTER THREE
 rock was the most miserable little shack you could imagine. One
 thing was certain, there was no television in there.
 “Storm forecast for tonight!” said Uncle Vernon gleefully, clapping his hands together. “And this gentleman’s kindly agreed to
@@ -1549,14 +1148,7 @@ Harry privately agreed, though the thought didn’t cheer him up
 at all.
 As night fell, the promised storm blew up around them. Spray
 from the high waves splattered the walls of the hut and a fierce
-
-
 44
-
-
-
-THE LETTERS
-FROM NO ONE
 wind rattled the filthy windows. Aunt Petunia found a few moldy
 blankets in the second room and made up a bed for Dudley on the
 moth-eaten sofa. She and Uncle Vernon went off to the lumpy bed
@@ -1583,19 +1175,9 @@ annoy him — three . . . two . . . one . . .
 BOOM.
 The whole shack shivered and Harry sat bolt upright, staring at
 the door. Someone was outside, knocking to come in.
-
-
 45
-
-
-
-CHAPTER FOUR
-
-THE KEEPER OF THE KEYS
-
-B
-
-OOM. They knocked again. Dudley jerked awake.
+|FOUR|
+BOOM. They knocked again. Dudley jerked awake.
 “Where’s the cannon?” he said stupidly.
 There was a crash behind them and Uncle Vernon came skidding into the room. He was holding a rifle in his hands — now
 they knew what had been in the long, thin package he had brought
@@ -1608,13 +1190,7 @@ hinges and with a deafening crash landed flat on the floor.
 A giant of a man was standing in the doorway. His face was almost completely hidden by a long, shaggy mane of hair and a wild,
 tangled beard, but you could make out his eyes, glinting like black
 beetles under all the hair.
-
-
 46
-
-
-
-THE KEEPER OF THE KEYS
 The giant squeezed his way into the hut, stooping so that his
 head just brushed the ceiling. He bent down, picked up the door,
 and fitted it easily back into its frame. The noise of the storm outside dropped a little. He turned to look at them all.
@@ -1640,13 +1216,7 @@ trodden on.
 Dursleys, “a very happy birthday to yeh. Got summat fer yeh
 here — I mighta sat on it at some point, but it’ll taste all right.”
 From an inside pocket of his black overcoat he pulled a slightly
-
-
 47
-
-
-
-CHAPTER FOUR
 squashed box. Harry opened it with trembling fingers. Inside was a
 large, sticky chocolate cake with Happy Birthday Harry written on
 it in green icing.
@@ -1673,13 +1243,7 @@ thing while the giant was working, but as he slid the first six fat,
 juicy, slightly burnt sausages from the poker, Dudley fidgeted a little. Uncle Vernon said sharply, “Don’t touch anything he gives you,
 Dudley.”
 The giant chuckled darkly.
-
-
 48
-
-
-
-THE KEEPER OF THE KEYS
 “Yer great puddin’ of a son don’ need fattenin’ anymore, Dursley, don’ worry.”
 He passed the sausages to Harry, who was so hungry he had
 never tasted anything so wonderful, but he still couldn’t take his
@@ -1706,13 +1270,7 @@ Harry thought this was going a bit far. He had been to school,
 after all, and his marks weren’t bad.
 “I know some things,” he said. “I can, you know, do math and
 stuff.”
-
-
 49
-
-
-
-CHAPTER FOUR
 But Hagrid simply waved his hand and said, “About our world,
 I mean. Your world. My world. Yer parents’ world.”
 “What world?”
@@ -1742,13 +1300,7 @@ Aunt Petunia gave a gasp of horror.
 a wizard.”
 There was silence inside the hut. Only the sea and the whistling
 wind could be heard.
-
-
 50
-
-
-
-THE KEEPER OF THE KEYS
 “I’m a what?” gasped Harry.
 “A wizard, o’ course,” said Hagrid, sitting back down on the
 sofa, which groaned and sank even lower, “an’ a thumpin’ good’un,
@@ -1768,16 +1320,9 @@ find enclosed a list of all necessary books and equipment.
 Term begins on September 1. We await your owl by no
 later than July 31.
 Yours sincerely,
-
 Minerva McGonagall,
 Deputy Headmistress
-
-
 51
-
-
-
-CHAPTER FOUR
 Questions exploded inside Harry’s head like fireworks and he
 couldn’t decide which to ask first. After a few minutes he stammered, “What does it mean, they await my owl?”
 “Gallopin’ Gorgons, that reminds me,” said Hagrid, clapping a
@@ -1802,13 +1347,7 @@ still ashen-faced but looking very angry, moved into the firelight.
 Hagrid grunted.
 “I’d like ter see a great Muggle like you stop him,” he said.
 “A what?” said Harry, interested.
-
-
 52
-
-
-
-THE KEEPER OF THE KEYS
 “A Muggle,” said Hagrid, “it’s what we call nonmagic folk like
 them. An’ it’s your bad luck you grew up in a family o’ the biggest
 Muggles I ever laid eyes on.”
@@ -1835,13 +1374,7 @@ Dursleys scuttled back to their corner. “How could a car crash kill
 Lily an’ James Potter? It’s an outrage! A scandal! Harry Potter not
 knowin’ his own story when every kid in our world knows his
 name!”
-
-
 53
-
-
-
-CHAPTER FOUR
 “But why? What happened?” Harry asked urgently.
 The anger faded from Hagrid’s face. He looked suddenly anxious.
 “I never expected this,” he said, in a low, worried voice. “I had
@@ -1869,13 +1402,7 @@ Hagrid gulped, but no words came out.
 about twenty years ago now, started lookin’ fer followers. Got ’em,
 too — some were afraid, some just wanted a bit o’ his power, ’cause
 he was gettin’ himself power, all right. Dark days, Harry. Didn’t
-
-
 54
-
-
-
-THE KEEPER OF THE KEYS
 know who ter trust, didn’t dare get friendly with strange wizards or
 witches . . . terrible things happened. He was takin’ over. ’Course,
 some stood up to him — an’ he killed ’em. Horribly. One o’ the
@@ -1902,13 +1429,7 @@ powerful, evil curse touches yeh — took care of yer mum an’ dad
 an’ yer house, even — but it didn’t work on you, an’ that’s why yer
 famous, Harry. No one ever lived after he decided ter kill ’em, no
 one except you, an’ he’d killed some o’ the best witches an’ wizards
-
-
 55
-
-
-
-CHAPTER FOUR
 of the age — the McKinnons, the Bones, the Prewetts — an’ you
 was only a baby, an’ you lived.”
 Something very painful was going on in Harry’s mind. As Hagrid’s story came to a close, he saw again the blinding flash of green
@@ -1931,13 +1452,7 @@ warning you — one more word . . .”
 In danger of being speared on the end of an umbrella by a
 bearded giant, Uncle Vernon’s courage failed again; he flattened
 himself against the wall and fell silent.
-
-
 56
-
-
-
-THE KEEPER OF THE KEYS
 “That’s better,” said Hagrid, breathing heavily and sitting back
 down on the sofa, which this time sagged right down to the floor.
 Harry, meanwhile, still had questions to ask, hundreds of them.
@@ -1963,13 +1478,7 @@ possibly be? He’d spent his life being clouted by Dudley, and bullied by Aunt 
 why hadn’t they been turned into warty toads every time they’d
 tried to lock him in his cupboard? If he’d once defeated the greatest sorcerer in the world, how come Dudley had always been able
 to kick him around like a football?
-
-
 57
-
-
-
-CHAPTER FOUR
 “Hagrid,” he said quietly, “I think you must have made a mistake. I don’t think I can be a wizard.”
 To his surprise, Hagrid chuckled.
 “Not a wizard, eh? Never made things happen when you was
@@ -1993,13 +1502,7 @@ growled Hagrid. “Stop Lily an’ James Potter’s son goin’ ter Hogwarts! Ye
 off ter the finest school of witchcraft and wizardry in the world.
 Seven years there and he won’t know himself. He’ll be with youngsters of his own sort, fer a change, an’ he’ll be under the greatest
 headmaster Hogwarts ever had, Albus Dumbled—”
-
-
 58
-
-
-
-THE KEEPER OF THE KEYS
 “I AM NOT PAYING FOR SOME CRACKPOT OLD FOOL
 TO TEACH HIM MAGIC TRICKS!” yelled Uncle Vernon.
 But he had finally gone too far. Hagrid seized his umbrella and
@@ -2026,33 +1529,16 @@ stuff — one o’ the reasons I was so keen ter take on the job —”
 “Oh, well — I was at Hogwarts meself but I — er — got expelled, ter tell yeh the truth. In me third year. They snapped me
 wand in half an’ everything. But Dumbledore let me stay on as
 gamekeeper. Great man, Dumbledore.”
-
-
 59
-
-
-
-CHAPTER FOUR
 “Why were you expelled?”
 “It’s gettin’ late and we’ve got lots ter do tomorrow,” said Hagrid
 loudly. “Gotta get up ter town, get all yer books an’ that.”
 He took off his thick black coat and threw it to Harry.
 “You can kip under that,” he said. “Don’ mind if it wriggles a
 bit, I think I still got a couple o’ dormice in one o’ the pockets.”
-
-
-
 60
-
-
-
-CHAPTER FIVE
-
-DIAGON ALLEY
-
-H
-
-arry woke early the next morning. Although he could tell
+|FIVE|
+Harry woke early the next morning. Although he could tell
 it was daylight, he kept his eyes shut tight.
 “It was a dream,” he told himself firmly. “I dreamed a giant
 called Hagrid came to tell me I was going to a school for wizards.
@@ -2066,13 +1552,7 @@ Tap. Tap. Tap.
 He sat up and Hagrid’s heavy coat fell off him. The hut was full
 of sunlight, the storm was over, Hagrid himself was asleep on the
 collapsed sofa, and there was an owl rapping its claw on the window, a newspaper held in its beak.
-
-
 61
-
-
-
-CHAPTER FIVE
 Harry scrambled to his feet, so happy he felt as though a large
 balloon was swelling inside him. He went straight to the window
 and jerked it open. The owl swooped in and dropped the newspaper on top of Hagrid, who didn’t wake up. The owl then fluttered
@@ -2100,13 +1580,7 @@ buy all yer stuff fer school.”
 Harry was turning over the wizard coins and looking at them.
 He had just thought of something that made him feel as though
 the happy balloon inside him had got a puncture.
-
-
 62
-
-
-
-DIAGON ALLEY
 “Um — Hagrid?”
 “Mm?” said Hagrid, who was pulling on his huge boots.
 “I haven’t got any money — and you heard Uncle Vernon last
@@ -2129,13 +1603,7 @@ gettin’ things from Gringotts — knows he can trust me, see.
 Harry followed Hagrid out onto the rock. The sky was quite
 clear now and the sea gleamed in the sunlight. The boat Uncle Vernon had hired was still there, with a lot of water in the bottom after the storm.
 “How did you get here?” Harry asked, looking around for another boat.
-
-
 63
-
-
-
-CHAPTER FIVE
 “Flew,” said Hagrid.
 “Flew?”
 “Yeah — but we’ll go back in this. Not s’pposed ter use magic
@@ -2155,13 +1623,8 @@ people liked to be left alone while they did this, but it was very difficult, he
 “Ministry o’ Magic messin’ things up as usual,” Hagrid muttered, turning the page.
 “There’s a Ministry of Magic?” Harry asked, before he could
 stop himself.
-“ ’Course,” said Hagrid. “They wanted Dumbledore fer Minis
-
+“ ’Course,” said Hagrid. “They wanted Dumbledore fer Minis
 64
-
-
-
-DIAGON ALLEY
 ter, o’ course, but he’d never leave Hogwarts, so old Cornelius
 Fudge got the job. Bungler if ever there was one. So he pelts Dumbledore with owls every morning, askin’ fer advice.”
 “But what does a Ministry of Magic do?”
@@ -2188,13 +1651,7 @@ tickets.
 People stared more than ever on the train. Hagrid took up two
 seats and sat knitting what looked like a canary-yellow circus tent.
 “Still got yer letter, Harry?” he asked as he counted stitches.
-
-
 65
-
-
-
-CHAPTER FIVE
 Harry took the parchment envelope out of his pocket.
 “Good,” said Hagrid. “There’s a list there of everything yeh
 need.”
@@ -2202,7 +1659,6 @@ Harry unfolded a second piece of paper he hadn’t noticed the
 night before, and read:
 HOGWARTS SCHOOL
 of WITCHCRAFT and WIZARDRY
-
 uniform
 First-year students will require:
 1. Three sets of plain work robes (black)
@@ -2220,13 +1676,7 @@ A Beginners’ Guide to Transfiguration by Emeric Switch
 One Thousand Magical Herbs and Fungi
 by Phyllida Spore
 Magical Drafts and Potions by Arsenius Jigger
-
-
 66
-
-
-
-DIAGON ALLEY
 Fantastic Beasts and Where to Find Them
 by Newt Scamander
 The Dark Forces: A Guide to Self-Protection
@@ -2251,13 +1701,7 @@ and the trains too slow.
 as they climbed a broken-down escalator that led up to a bustling
 road lined with shops.
 Hagrid was so huge that he parted the crowd easily; all Harry
-
-
 67
-
-
-
-CHAPTER FIVE
 had to do was keep close behind him. They passed book shops and
 music stores, hamburger restaurants and cinemas, but nowhere
 that looked as if it could sell you a magic wand. This was just an
@@ -2284,13 +1728,7 @@ toothless walnut. The low buzz of chatter stopped when they
 walked in. Everyone seemed to know Hagrid; they waved and
 smiled at him, and the bartender reached for a glass, saying, “The
 usual, Hagrid?”
-
-
 68
-
-
-
-DIAGON ALLEY
 “Can’t, Tom, I’m on Hogwarts business,” said Hagrid, clapping
 his great hand on Harry’s shoulder and making Harry’s knees
 buckle.
@@ -2319,13 +1757,7 @@ Dedalus Diggle.”
 fell off in his excitement. “You bowed to me once in a shop.”
 “He remembers!” cried Dedalus Diggle, looking around at
 everyone. “Did you hear that? He remembers me!”
-
-
 69
-
-
-
-CHAPTER FIVE
 Harry shook hands again and again — Doris Crockford kept
 coming back for more.
 A pale young man made his way forward, very nervously. One of
@@ -2353,13 +1785,7 @@ Hagrid grinned at Harry.
 Quirrell was tremblin’ ter meet yeh — mind you, he’s usually tremblin’.”
 “Is he always that nervous?”
 “Oh, yeah. Poor bloke. Brilliant mind. He was fine while he was
-
-
 70
-
-
-
-DIAGON ALLEY
 studyin’ outta books but then he took a year off ter get some firsthand experience. . . . They say he met vampires in the Black Forest,
 and there was a nasty bit o’ trouble with a hag — never been the
 same since. Scared of the students, scared of his own subject —
@@ -2381,13 +1807,7 @@ Harry wished he had about eight more eyes. He turned his head
 in every direction as they walked up the street, trying to look at
 everything at once: the shops, the things outside them, the people
 doing their shopping. A plump woman outside an Apothecary was
-
-
 71
-
-
-
-CHAPTER FIVE
 shaking her head as they passed, saying, “Dragon liver, sixteen
 Sickles an ounce, they’re mad.
 A low, soft hooting came from a dark shop with a sign saying
@@ -2416,13 +1836,7 @@ For those who take, but do not earn,
 Must pay most dearly in their turn.
 So if you seek beneath our floors
 A treasure that was never yours,
-
-
 72
-
-
-
-DIAGON ALLEY
 Thief, you have been warned, beware
 Of finding more than treasure there.
 “Like I said, yeh’d be mad ter try an’ rob it,” said Hagrid.
@@ -2448,13 +1862,7 @@ The goblin read the letter carefully.
 “Very well,” he said, handing it back to Hagrid, “I will have
 someone take you down to both vaults. Griphook!”
 Griphook was yet another goblin. Once Hagrid had crammed
-
-
 73
-
-
-
-CHAPTER FIVE
 all the dog biscuits back inside his pockets, he and Harry followed
 Griphook toward one of the doors leading off the hall.
 “What’s the You-Know-What in vault seven hundred and thirteen?” Harry asked.
@@ -2480,13 +1888,7 @@ floor.
 cart, “what’s the difference between a stalagmite and a stalactite?”
 “Stalagmite’s got an ‘m’ in it,” said Hagrid. “An’ don’ ask me
 questions just now, I think I’m gonna be sick.”
-
-
 74
-
-
-
-DIAGON ALLEY
 He did look very green, and when the cart stopped at last beside
 a small door in the passage wall, Hagrid got out and had to lean
 against the wall to stop his knees from trembling.
@@ -2512,13 +1914,7 @@ the side to try to see what was down at the dark bottom, but Hagrid groaned and 
 Vault seven hundred and thirteen had no keyhole.
 “Stand back,” said Griphook importantly. He stroked the door
 gently with one of his long fingers and it simply melted away.
-
-
 75
-
-
-
-CHAPTER FIVE
 “If anyone but a Gringotts goblin tried that, they’d be sucked
 through the door and trapped in there,” said Griphook.
 “How often do you check to see if anyone’s inside?” Harry asked.
@@ -2546,13 +1942,7 @@ I hate them Gringotts carts.” He did still look a bit sick, so Harry
 entered Madam Malkin’s shop alone, feeling nervous.
 Madam Malkin was a squat, smiling witch dressed all in
 mauve.
-
-
 76
-
-
-
-DIAGON ALLEY
 “Hogwarts, dear?” she said, when Harry started to speak. “Got
 the lot here — another young man being fitted up just now, in
 fact.”
@@ -2579,13 +1969,7 @@ yet?”
 “No,” said Harry, feeling more stupid by the minute.
 “Well, no one really knows until they get there, do they, but I
 know I’ll be in Slytherin, all our family have been — imagine being in Hufflepuff, I think I’d leave, wouldn’t you?”
-
-
 77
-
-
-
-CHAPTER FIVE
 “Mmm,” said Harry, wishing he could say something a bit more
 interesting.
 “I say, look at that man!” said the boy suddenly, nodding toward
@@ -2613,13 +1997,7 @@ our ways. Some of them have never even heard of Hogwarts until
 they get the letter, imagine. I think they should keep it in the old
 wizarding families. What’s your surname, anyway?”
 But before Harry could answer, Madam Malkin said, “That’s
-
-
 78
-
-
-
-DIAGON ALLEY
 you done, my dear,” and Harry, not sorry for an excuse to stop talking to the boy, hopped down from the footstool.
 “Well, I’ll see you at Hogwarts, I suppose,” said the drawling
 boy.
@@ -2647,13 +2025,7 @@ Muggles — look at yer mum! Look what she had fer a sister!”
 Muggle world — everyone follows Quidditch — played up in the
 air on broomsticks and there’s four balls — sorta hard ter explain
 the rules.”
-
-
 79
-
-
-
-CHAPTER FIVE
 “And what are Slytherin and Hufflepuff?”
 “School Houses. There’s four. Everyone says Hufflepuff are a lot
 o’ duffers, but —”
@@ -2680,13 +2052,7 @@ yeh’ll need a lot more study before yeh get ter that level.”
 Hagrid wouldn’t let Harry buy a solid gold cauldron, either (“It
 says pewter on yer list”), but they got a nice set of scales for weighing potion ingredients and a collapsible brass telescope. Then they
 visited the Apothecary, which was fascinating enough to make up
-
-
 80
-
-
-
-DIAGON ALLEY
 for its horrible smell, a mixture of bad eggs and rotted cabbages.
 Barrels of slimy stuff stood on the floor; jars of herbs, dried roots,
 and bright powders lined the walls; bundles of feathers, strings of
@@ -2713,13 +2079,7 @@ only place fer wands, Ollivanders, and yeh gotta have the best
 wand.”
 A magic wand . . . this was what Harry had been really looking
 forward to.
-
-
 81
-
-
-
-CHAPTER FIVE
 The last shop was narrow and shabby. Peeling gold letters over
 the door read Ollivanders: Makers of Fine Wands since 382 b.c. A
 single wand lay on a faded purple cushion in the dusty window.
@@ -2746,13 +2106,7 @@ blink. Those silvery eyes were a bit creepy.
 “Your father, on the other hand, favored a mahogany wand.
 Eleven inches. Pliable. A little more power and excellent for transfiguration. Well, I say your father favored it — it’s really the wand
 that chooses the wizard, of course.”
-
-
 82
-
-
-
-DIAGON ALLEY
 Mr. Ollivander had come so close that he and Harry were almost
 nose to nose. Harry could see himself reflected in those misty eyes.
 “And that’s where . . .”
@@ -2779,13 +2133,7 @@ arm?”
 “Er — well, I’m right-handed,” said Harry.
 “Hold out your arm. That’s it.” He measured Harry from shoulder to finger, then wrist to elbow, shoulder to floor, knee to armpit
 and round his head. As he measured, he said, “Every Ollivander
-
-
 83
-
-
-
-CHAPTER FIVE
 wand has a core of a powerful magical substance, Mr. Potter. We
 use unicorn hairs, phoenix tail feathers, and the heartstrings of
 dragons. No two Ollivander wands are the same, just as no two
@@ -2811,13 +2159,7 @@ pulled from the shelves, the happier he seemed to become.
 here somewhere — I wonder, now — yes, why not — unusual
 combination — holly and phoenix feather, eleven inches, nice and
 supple.”
-
-
 84
-
-
-
-DIAGON ALLEY
 Harry took the wand. He felt a sudden warmth in his fingers.
 He raised the wand above his head, brought it swishing down
 through the dusty air and a stream of red and gold sparks shot from
@@ -2843,13 +2185,7 @@ Harry shivered. He wasn’t sure he liked Mr. Ollivander too
 much. He paid seven gold Galleons for his wand, and Mr. Ollivander bowed them from his shop.
 The late afternoon sun hung low in the sky as Harry and Hagrid
 made their way back down Diagon Alley, back through the wall,
-
-
 85
-
-
-
-CHAPTER FIVE
 back through the Leaky Cauldron, now empty. Harry didn’t speak
 at all as they walked down the road; he didn’t even notice how
 much people were gawking at them on the Underground, laden as
@@ -2873,13 +2209,7 @@ Hagrid leaned across the table. Behind the wild beard and eyebrows he wore a ver
 “Don’ you worry, Harry. You’ll learn fast enough. Everyone
 starts at the beginning at Hogwarts, you’ll be just fine. Just be yerself. I know it’s hard. Yeh’ve been singled out, an’ that’s always hard.
 But yeh’ll have a great time at Hogwarts — I did — still do, ’smatter of fact.”
-
-
 86
-
-
-
-DIAGON ALLEY
 Hagrid helped Harry on to the train that would take him back
 to the Dursleys, then handed him an envelope.
 “Yer ticket fer Hogwarts,” he said. “First o’ September — King’s
@@ -2888,22 +2218,9 @@ send me a letter with yer owl, she’ll know where to find me. . . . See
 yeh soon, Harry.”
 The train pulled out of the station. Harry wanted to watch Hagrid until he was out of sight; he rose in his seat and pressed his
 nose against the window, but he blinked and Hagrid had gone.
-
-
-
 87
-
-
-
-CHAPTER SIX
-
-THE JOURNEY FROM
-PLATFORM NINE
-AND THREE-QUARTERS
-
-H
-
-arry’s last month with the Dursleys wasn’t fun. True,
+|SIX|
+Harry’s last month with the Dursleys wasn’t fun. True,
 Dudley was now so scared of Harry he wouldn’t stay in
 the same room, while Aunt Petunia and Uncle Vernon didn’t shut
 Harry in his cupboard, force him to do anything, or shout at
@@ -2917,14 +2234,7 @@ reading late into the night, Hedwig swooping in and out of the
 open window as she pleased. It was lucky that Aunt Petunia didn’t
 come in to vacuum anymore, because Hedwig kept bringing back
 dead mice. Every night before he went to sleep, Harry ticked off
-
-
 88
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 another day on the piece of paper he had pinned to the wall, counting down to September the first.
 On the last day of August he thought he’d better speak to his
 aunt and uncle about getting to King’s Cross station the next day,
@@ -2952,13 +2262,7 @@ eleven o’clock,” he read.
 His aunt and uncle stared.
 “Platform what?”
 “Nine and three-quarters.”
-
-
 89
-
-
-
-CHAPTER SIX
 “Don’t talk rubbish,” said Uncle Vernon. “There is no platform
 nine and three-quarters.”
 “It’s on my ticket.”
@@ -2986,14 +2290,7 @@ stopped dead, facing the platforms with a nasty grin on his face.
 “Well, there you are, boy. Platform nine — platform ten. Your
 platform should be somewhere in the middle, but they don’t seem
 to have built it yet, do they?”
-
-
 90
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 He was quite right, of course. There was a big plastic number
 nine over one platform and a big plastic number ten over the one
 next to it, and in the middle, nothing at all.
@@ -3019,13 +2316,7 @@ ticket inspector’s stand between platforms nine and ten.
 At that moment a group of people passed just behind him and
 he caught a few words of what they were saying.
 “— packed with Muggles, of course —”
-
-
 91
-
-
-
-CHAPTER SIX
 Harry swung round. The speaker was a plump woman who was
 talking to four boys, all with flaming red hair. Each of them was
 pushing a trunk like Harry’s in front of him — and they had an
@@ -3051,14 +2342,7 @@ you call yourself our mother? Can’t you tell I’m George?”
 twin called after him to hurry up, and he must have done so, because a second later, he had gone — but how had he done it?
 Now the third brother was walking briskly toward the barrier —
 he was almost there — and then, quite suddenly, he wasn’t anywhere.
-
-
 92
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 There was nothing else for it.
 “Excuse me,” Harry said to the plump woman.
 “Hello, dear,” she said. “First time at Hogwarts? Ron’s new, too.”
@@ -3086,13 +2370,7 @@ It didn’t come . . . he kept on running . . . he opened his eyes.
 A scarlet steam engine was waiting next to a platform packed
 with people. A sign overhead said Hogwarts Express, eleven
 o’clock. Harry looked behind him and saw a wrought-iron archway
-
-
 93
-
-
-
-CHAPTER SIX
 where the barrier had been, with the words Platform Nine and
 Three-Quarters on it. He had done it.
 Smoke from the engine drifted over the heads of the chattering
@@ -3121,14 +2399,7 @@ through the barrier.
 “Oy, Fred! C’mere and help!”
 With the twins’ help, Harry’s trunk was at last tucked away in a
 corner of the compartment.
-
-
 94
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 “Thanks,” said Harry, pushing his sweaty hair out of his eyes.
 “What’s that?” said one of the twins suddenly, pointing at
 Harry’s lightning scar.
@@ -3156,13 +2427,7 @@ the twins.
 “Where’s Percy?” said their mother.
 “He’s coming now.”
 The oldest boy came striding into sight. He had already changed
-
-
 95
-
-
-
-CHAPTER SIX
 into his billowing black Hogwarts robes, and Harry noticed a shiny
 red and gold badge on his chest with the letter P on it.
 “Can’t stay long, Mother,” he said. “I’m up front, the prefects
@@ -3190,14 +2455,7 @@ more owl telling me you’ve — you’ve blown up a toilet or —”
 “Don’t worry, ickle Ronniekins is safe with us.”
 “Shut up,” said Ron again. He was almost as tall as the twins already and his nose was still pink where his mother had rubbed it.
 “Hey, Mom, guess what? Guess who we just met on the train?”
-
-
 96
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 Harry leaned back quickly so they couldn’t see him looking.
 “You know that black-haired boy who was near us in the station?
 Know who he is?”
@@ -3224,13 +2482,7 @@ good-bye, and their younger sister began to cry.
 “George!”
 “Only joking, Mom.”
 The train began to move. Harry saw the boys’ mother waving
-
-
 97
-
-
-
-CHAPTER SIX
 and their sister, half laughing, half crying, running to keep up with
 the train until it gathered too much speed, then she fell back and
 waved.
@@ -3257,14 +2509,7 @@ door shut behind them.
 Harry nodded.
 “Oh — well, I thought it might be one of Fred and George’s
 jokes,” said Ron. “And have you really got — you know . . .”
-
-
 98
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 He pointed at Harry’s forehead.
 Harry pulled back his bangs to show the lightning scar. Ron
 stared.
@@ -3293,13 +2538,7 @@ boy and Charlie was captain of Quidditch. Now Percy’s a prefect.
 Fred and George mess around a lot, but they still get really good
 marks and everyone thinks they’re really funny. Everyone expects
 me to do as well as the others, but if I do, it’s no big deal, because
-
-
 99
-
-
-
-CHAPTER SIX
 they did it first. You never get anything new, either, with five brothers. I’ve got Bill’s old robes, Charlie’s old wand, and Percy’s old rat.”
 Ron reached inside his jacket and pulled out a fat gray rat, which
 was asleep.
@@ -3326,14 +2565,7 @@ in the class.”
 families and they learn quick enough.”
 While they had been talking, the train had carried them out
 of London. Now they were speeding past fields full of cows and
-
-
 100
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 sheep. They were quiet for a time, watching the fields and lanes
 flick past.
 Around half past twelve there was a great clattering outside in
@@ -3361,13 +2593,7 @@ were four sandwiches inside. He pulled one of them apart and said,
 on —”
 “You don’t want this, it’s all dry,” said Ron. “She hasn’t got much
 time,” he added quickly, “you know, with five of us.”
-
-
 101
-
-
-
-CHAPTER SIX
 “Go on, have a pasty,” said Harry, who had never had anything to share before or, indeed, anyone to share it with. It was
 a nice feeling, sitting there with Ron, eating their way through
 all Harry’s pasties, cakes, and candies (the sandwiches lay forgotten).
@@ -3388,17 +2614,9 @@ crooked nose, and flowing silver hair, beard, and mustache. Underneath the pictu
 Harry turned over his card and read:
 ALBUS DUMBLEDORE
 currently headmaster of hogwarts
-
 Considered by many the greatest wizard of modern times,
 Dumbledore is particularly famous for his defeat of the
-
-
 102
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 Dark wizard Grindelwald in 1945, for the discovery of the
 twelve uses of dragon’s blood, and his work on alchemy
 with his partner, Nicolas Flamel. Professor Dumbledore
@@ -3425,13 +2643,8 @@ away from the druidess Cliodna, who was scratching her nose, to
 open a bag of Bertie Bott’s Every Flavor Beans.
 “You want to be careful with those,” Ron warned Harry. “When
 they say every flavor, they mean every flavor — you know, you get
-all the ordinary ones like chocolate and peppermint and mar
-
+all the ordinary ones like chocolate and peppermint and mar
 103
-
-
-
-CHAPTER SIX
 malade, but then you can get spinach and liver and tripe. George
 reckons he had a booger-flavored one once.”
 Ron picked up a green bean, looked at it carefully, and bit into a
@@ -3459,14 +2672,7 @@ The rat was still snoozing on Ron’s lap.
 “He might have died and you wouldn’t know the difference,” said
 Ron in disgust. “I tried to turn him yellow yesterday to make him
 more interesting, but the spell didn’t work. I’ll show you, look . . .”
-
-
 104
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 He rummaged around in his trunk and pulled out a very
 battered-looking wand. It was chipped in places and something
 white was glinting at the end.
@@ -3493,13 +2699,7 @@ worked for me. Nobody in my family’s magic at all, it was ever such
 a surprise when I got my letter, but I was ever so pleased, of course,
 I mean, it’s the very best school of witchcraft there is, I’ve heard —
 I’ve learned all our course books by heart, of course, I just hope it
-
-
 105
-
-
-
-CHAPTER SIX
 will be enough — I’m Hermione Granger, by the way, who are
 you?”
 She said all this very fast.
@@ -3526,14 +2726,7 @@ it to me, bet he knew it was a dud.”
 “Gryffindor,” said Ron. Gloom seemed to be settling on him
 again. “Mom and Dad were in it, too. I don’t know what they’ll say
 if I’m not. I don’t suppose Ravenclaw would be too bad, but imagine if they put me in Slytherin.”
-
-
 106
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 “That’s the House Vol-, I mean, You-Know-Who was in?”
 “Yeah,” said Ron. He flopped back into his seat, looking depressed.
 “You know, I think the ends of Scabbers’ whiskers are a bit
@@ -3559,13 +2752,7 @@ worrying.
 “What’s your Quidditch team?” Ron asked.
 “Er — I don’t know any,” Harry confessed.
 “What!” Ron looked dumbfounded. “Oh, you wait, it’s the best
-
-
 107
-
-
-
-CHAPTER SIX
 game in the world —” And he was off, explaining all about the
 four balls and the positions of the seven players, describing famous
 games he’d been to with his brothers and the broomstick he’d like
@@ -3592,14 +2779,7 @@ He turned back to Harry. “You’ll soon find out some wizarding
 families are much better than others, Potter. You don’t want to go
 making friends with the wrong sort. I can help you there.”
 He held out his hand to shake Harry’s, but Harry didn’t take it.
-
-
 108
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 “I think I can tell who the wrong sort are for myself, thanks,” he
 said coolly.
 Draco Malfoy didn’t go red, but a pink tinge appeared in his pale
@@ -3625,13 +2805,7 @@ among the sweets, or perhaps they’d heard footsteps, because a second later, H
 “What has been going on?” she said, looking at the sweets all
 over the floor and Ron picking up Scabbers by his tail.
 “I think he’s been knocked out,” Ron said to Harry. He looked
-
-
 109
-
-
-
-CHAPTER SIX
 closer at Scabbers. “No — I don’t believe it — he’s gone back to
 sleep.”
 And so he had.
@@ -3655,14 +2829,8 @@ was getting dark. He could see mountains and forests under a deep
 purple sky. The train did seem to be slowing down.
 He and Ron took off their jackets and pulled on their long black
 robes. Ron’s were a bit short for him, you could see his sneakers underneath them.
-A voice echoed through the train: “We will be reaching Hog
-
+A voice echoed through the train: “We will be reaching Hog
 110
-
-
-
-THE JOURNEY FROM PLATFORM
-NINE AND THREE-QUARTERS
 warts in five minutes’ time. Please leave your luggage on the train,
 it will be taken to the school separately.”
 Harry’s stomach lurched with nerves and Ron, he saw, looked
@@ -3691,13 +2859,7 @@ turrets and towers.
 “No more’n four to a boat!” Hagrid called, pointing to a fleet of
 little boats sitting in the water by the shore. Harry and Ron were
 followed into their boat by Neville and Hermione.
-
-
 111
-
-
-
-CHAPTER SIX
 “Everyone in?” shouted Hagrid, who had a boat to himself.
 “Right then — FORWARD!”
 And the fleet of little boats moved off all at once, gliding across
@@ -3719,20 +2881,9 @@ They walked up a flight of stone steps and crowded around the
 huge, oak front door.
 “Everyone here? You there, still got yer toad?”
 Hagrid raised a gigantic fist and knocked three times on the castle door.
-
-
-
 112
-
-
-
-CHAPTER SEVEN
-
-THE SORTING HAT
-
-T
-
-he door swung open at once. A tall, black-haired witch in
+|SEVEN|
+The door swung open at once. A tall, black-haired witch in
 emerald-green robes stood there. She had a very stern face
 and Harry’s first thought was that this was not someone to cross.
 “The firs’ years, Professor McGonagall,” said Hagrid.
@@ -3746,13 +2897,7 @@ floor. Harry could hear the drone of hundreds of voices from a
 doorway to the right — the rest of the school must already be
 here — but Professor McGonagall showed the first years into a
 small, empty chamber off the hall. They crowded in, standing
-
-
 113
-
-
-
-CHAPTER SEVEN
 rather closer together than they would usually have done, peering
 about nervously.
 “Welcome to Hogwarts,” said Professor McGonagall. “The
@@ -3777,13 +2922,7 @@ fastened under his left ear, and on Ron’s smudged nose. Harry nervously tried 
 “I shall return when we are ready for you,” said Professor McGonagall. “Please wait quietly.”
 She left the chamber. Harry swallowed.
 “How exactly do they sort us into Houses?” he asked Ron.
-
-
 114
-
-
-
-THE SORTING HAT
 “Some sort of test, I think. Fred said it hurts a lot, but I think he
 was joking.”
 Harry’s heart gave a horrible jolt. A test? In front of the whole
@@ -3811,13 +2950,7 @@ we ought to give him a second chance —”
 even a ghost — I say, what are you all doing here?”
 A ghost wearing a ruff and tights had suddenly noticed the first
 years.
-
-
 115
-
-
-
-CHAPTER SEVEN
 Nobody answered.
 “New students!” said the Fat Friar, smiling around at them.
 “About to be Sorted, I suppose?”
@@ -3843,13 +2976,7 @@ years up here, so that they came to a halt in a line facing the other
 students, with the teachers behind them. The hundreds of faces
 staring at them looked like pale lanterns in the flickering candlelight. Dotted here and there among the students, the ghosts shone
 misty silver. Mainly to avoid all the staring eyes, Harry looked upward and saw a velvety black ceiling dotted with stars. He heard
-
-
 116
-
-
-
-THE SORTING HAT
 Hermione whisper, “It’s bewitched to look like the sky outside. I
 read about it in Hogwarts, A History.”
 It was hard to believe there was a ceiling there at all, and that the
@@ -3877,13 +3004,7 @@ There’s nothing hidden in your head
 The Sorting Hat can’t see,
 So try me on and I will tell you
 Where you ought to be.
-
-
 117
-
-
-
-CHAPTER SEVEN
 You might belong in Gryffindor,
 Where dwell the brave at heart,
 Their daring, nerve, and chivalry
@@ -3911,13 +3032,7 @@ bowed to each of the four tables and then became quite still again.
 Harry smiled weakly. Yes, trying on the hat was a lot better than
 having to do a spell, but he did wish they could have tried it on
 without everyone watching. The hat seemed to be asking rather a
-
-
 118
-
-
-
-THE SORTING HAT
 lot; Harry didn’t feel brave or quick-witted or any of it at the moment. If only the hat had mentioned a House for people who felt a
 bit queasy, that would have been the one for him.
 Professor McGonagall now stepped forward holding a long roll
@@ -3943,13 +3058,7 @@ left exploded with cheers; Harry could see Ron’s twin brothers catcalling.
 “Bulstrode, Millicent” then became a Slytherin. Perhaps it was
 Harry’s imagination, after all he’d heard about Slytherin, but he
 thought they looked like an unpleasant lot.
-
-
 119
-
-
-
-CHAPTER SEVEN
 He was starting to feel definitely sick now. He remembered being picked for teams during gym at his old school. He had always
 been last to be chosen, not because he was no good, but because no
 one wanted Dudley to think they liked him.
@@ -3976,13 +3085,7 @@ back amid gales of laughter to give it to “MacDougal, Morag.”
 Malfoy swaggered forward when his name was called and got
 his wish at once: the hat had barely touched his head when it
 screamed, “SLYTHERIN!”
-
-
 120
-
-
-
-THE SORTING HAT
 Malfoy went to join his friends Crabbe and Goyle, looking
 pleased with himself.
 There weren’t many people left now.
@@ -4010,13 +3113,7 @@ Harry heard the hat shout the last word to the whole hall. He
 took off the hat and walked shakily toward the Gryffindor table.
 He was so relieved to have been chosen and not put in Slytherin, he
 hardly noticed that he was getting the loudest cheer yet. Percy the
-
-
 121
-
-
-
-CHAPTER SEVEN
 Prefect got up and shook his hand vigorously, while the Weasley
 twins yelled, “We got Potter! We got Potter!” Harry sat down opposite the ghost in the ruff he’d seen earlier. The ghost patted his
 arm, giving Harry the sudden, horrible feeling he’d just plunged it
@@ -4042,13 +3139,7 @@ McGonagall rolled up her scroll and took the Sorting Hat away.
 Harry looked down at his empty gold plate. He had only just
 realized how hungry he was. The pumpkin pasties seemed ages
 ago.
-
-
 122
-
-
-
-THE SORTING HAT
 Albus Dumbledore had gotten to his feet. He was beaming at
 the students, his arms opened wide, as if nothing could have
 pleased him more than to see them all there.
@@ -4075,13 +3166,8 @@ began to eat. It was all delicious.
 Harry cut up his steak.
 “Can’t you — ?”
 “I haven’t eaten for nearly five hundred years,” said the ghost. “I
-don’t need to, of course, but one does miss it. I don’t think I’ve in
-
+don’t need to, of course, but one does miss it. I don’t think I’ve in
 123
-
-
-
-CHAPTER SEVEN
 troduced myself? Sir Nicholas de Mimsy-Porpington at your service. Resident ghost of Gryffindor Tower.”
 “I know who you are!” said Ron suddenly. “My brothers told me
 about you — you’re Nearly Headless Nick!”
@@ -4106,13 +3192,8 @@ pleased to see, didn’t look too pleased with the seating arrangements.
 “How did he get covered in blood?” asked Seamus with great interest.
 “I’ve never asked,” said Nearly Headless Nick delicately.
 When everyone had eaten as much as they could, the remains of
-the food faded from the plates, leaving them sparkling clean as be
-
+the food faded from the plates, leaving them sparkling clean as be
 124
-
-
-
-THE SORTING HAT
 fore. A moment later the desserts appeared. Blocks of ice cream in
 every flavor you could think of, apple pies, treacle tarts, chocolate
 éclairs and jam doughnuts, trifle, strawberries, Jell-O, rice pudding . . .
@@ -4138,13 +3219,7 @@ he bought me my toad.”
 On Harry’s other side, Percy Weasley and Hermione were talking about lessons (“I do hope they start right away, there’s so much
 to learn, I’m particularly interested in Transfiguration, you know,
 turning something into something else, of course, it’s supposed to
-
-
 125
-
-
-
-CHAPTER SEVEN
 be very difficult —”; “You’ll be starting small, just matches into
 needles and that sort of thing —”).
 Harry, who was starting to feel warm and sleepy, looked up at
@@ -4169,13 +3244,7 @@ again.
 At last, the desserts too disappeared, and Professor Dumbledore
 got to his feet again. The hall fell silent.
 “Ahem — just a few more words now that we are all fed and watered. I have a few start-of-term notices to give you.
-
-
 126
-
-
-
-THE SORTING HAT
 “First years should note that the forest on the grounds is forbidden to all pupils. And a few of our older students would do well to
 remember that as well.”
 Dumbledore’s twinkling eyes flashed in the direction of the
@@ -4201,13 +3270,7 @@ a fly off the end, and a long golden ribbon flew out of it, which rose
 high above the tables and twisted itself, snakelike, into words.
 “Everyone pick their favorite tune,” said Dumbledore, “and off
 we go!”
-
-
 127
-
-
-
-CHAPTER SEVEN
 And the school bellowed:
 “Hogwarts, Hogwarts, Hoggy Warty Hogwarts,
 Teach us something please,
@@ -4233,13 +3296,7 @@ legs were like lead again, but only because he was so tired and full
 of food. He was too sleepy even to be surprised that the people in
 the portraits along the corridors whispered and pointed as they
 passed, or that twice Percy led them through doorways hidden behind sliding panels and hanging tapestries. They climbed more
-
-
 128
-
-
-
-THE SORTING HAT
 staircases, yawning and dragging their feet, and Harry was just
 wondering how much farther they had to go when they came to a
 sudden halt.
@@ -4266,13 +3323,7 @@ won’t even listen to us prefects. Here we are.”
 At the very end of the corridor hung a portrait of a very fat
 woman in a pink silk dress.
 “Password?” she said.
-
-
 129
-
-
-
-CHAPTER SEVEN
 “Caput Draconis,” said Percy, and the portrait swung forward to
 reveal a round hole in the wall. They all scrambled through it —
 Neville needed a leg up — and found themselves in the Gryffindor
@@ -4298,20 +3349,9 @@ there was a burst of green light and Harry woke, sweating and
 shaking.
 He rolled over and fell asleep again, and when he woke next day,
 he didn’t remember the dream at all.
-
-
-
 130
-
-
-
-CHAPTER EIGHT
-
-THE POTIONS MASTER
-
-T
-
-here, look.”
+|EIGHT|
+There, look.”
 “Where?”
 “Next to the tall kid with the red hair.”
 “Wearing the glasses?”
@@ -4323,13 +3363,7 @@ was trying to concentrate on finding his way to classes.
 There were a hundred and forty-two staircases at Hogwarts:
 wide, sweeping ones; narrow, rickety ones; some that led somewhere different on a Friday; some with a vanishing step halfway up
 that you had to remember to jump. Then there were doors that
-
-
 131
-
-
-
-CHAPTER EIGHT
 wouldn’t open unless you asked politely, or tickled them in exactly
 the right place, and doors that weren’t really doors at all, but solid
 walls just pretending. It was also very hard to remember where anything was, because it all seemed to move around a lot. The people
@@ -4356,13 +3390,7 @@ Filch owned a cat called Mrs. Norris, a scrawny, dust-colored
 creature with bulging, lamplike eyes just like Filch’s. She patrolled
 the corridors alone. Break a rule in front of her, put just one toe out
 of line, and she’d whisk off for Filch, who’d appear, wheezing, two
-
-
 132
-
-
-
-THE POTIONS MASTER
 seconds later. Filch knew the secret passageways of the school better than anyone (except perhaps the Weasley twins) and could pop
 up as suddenly as any of the ghosts. The students all hated him,
 and it was the dearest ambition of many to give Mrs. Norris a good
@@ -4390,13 +3418,7 @@ name he gave an excited squeak and toppled out of sight.
 Professor McGonagall was again different. Harry had been quite
 right to think she wasn’t a teacher to cross. Strict and clever, she gave
 them a talking-to the moment they sat down in her first class.
-
-
 133
-
-
-
-CHAPTER EIGHT
 “Transfiguration is some of the most complex and dangerous
 magic you will learn at Hogwarts,” she said. “Anyone messing
 around in my class will leave and not come back. You have been
@@ -4424,13 +3446,7 @@ garlic as well, so that Quirrell was protected wherever he went.
 Harry was very relieved to find out that he wasn’t miles behind
 everyone else. Lots of people had come from Muggle families and,
 like him, hadn’t had any idea that they were witches and wizards.
-
-
 134
-
-
-
-THE POTIONS MASTER
 There was so much to learn that even people like Ron didn’t have
 much of a head start.
 Friday was an important day for Harry and Ron. They finally
@@ -4455,13 +3471,7 @@ once. It said, in a very untidy scrawl:
 Dear Harry,
 I know you get Friday afternoons off so would you like
 to come and have a cup of tea with me around three?
-
-
 135
-
-
-
-CHAPTER EIGHT
 I want to hear all about your first week. Send us an
 answer back with Hedwig.
 Hagrid
@@ -4487,13 +3497,7 @@ Hagrid’s warmth. They were cold and empty and made you think
 of dark tunnels.
 “You are here to learn the subtle science and exact art of potionmaking,” he began. He spoke in barely more than a whisper, but
 they caught every word — like Professor McGonagall, Snape had
-
-
 136
-
-
-
-THE POTIONS MASTER
 the gift of keeping a class silent without effort. “As there is little
 foolish wand-waving here, many of you will hardly believe this is
 magic. I don’t expect you will really understand the beauty of the
@@ -4521,13 +3525,7 @@ without her leaving her seat, but Harry didn’t have the faintest idea
 what a bezoar was. He tried not to look at Malfoy, Crabbe, and
 Goyle, who were shaking with laughter.
 “I don’t know, sir.”
-
-
 137
-
-
-
-CHAPTER EIGHT
 “Thought you wouldn’t open a book before coming, eh, Potter?”
 Harry forced himself to keep looking straight into those cold
 eyes. He had looked through his books at the Dursleys’, but did
@@ -4553,13 +3551,7 @@ Things didn’t improve for the Gryffindors as the Potions lesson
 continued. Snape put them all into pairs and set them to mixing up
 a simple potion to cure boils. He swept around in his long black
 cloak, watching them weigh dried nettles and crush snake fangs,
-
-
 138
-
-
-
-THE POTIONS MASTER
 criticizing almost everyone except Malfoy, whom he seemed to
 like. He was just telling everyone to look at the perfect way Malfoy
 had stewed his horned slugs when clouds of acid green smoke and
@@ -4588,13 +3580,7 @@ As they climbed the steps out of the dungeon an hour later,
 Harry’s mind was racing and his spirits were low. He’d lost two
 points for Gryffindor in his very first week — why did Snape hate
 him so much?
-
-
 139
-
-
-
-CHAPTER EIGHT
 “Cheer up,” said Ron, “Snape’s always taking points off Fred and
 George. Can I come and meet Hagrid with you?”
 At five to three they left the castle and made their way across the
@@ -4621,13 +3607,7 @@ The rock cakes were shapeless lumps with raisins that almost
 broke their teeth, but Harry and Ron pretended to be enjoying
 them as they told Hagrid all about their first lessons. Fang rested
 his head on Harry’s knee and drooled all over his robes.
-
-
 140
-
-
-
-THE POTIONS MASTER
 Harry and Ron were delighted to hear Hagrid call Filch “that old
 git’’
 “An’ as fer that cat, Mrs. Norris, I’d like ter introduce her to
@@ -4646,9 +3626,7 @@ Harry wondered if Hagrid had changed the subject on purpose.
 While Ron told Hagrid all about Charlie’s work with dragons,
 Harry picked up a piece of paper that was lying on the table under
 the tea cozy. It was a cutting from the Daily Prophet:
-
 GRINGOTTS BREAK-IN LATEST
-
 Investigations continue into the break-in at
 Gringotts on 31 July, widely believed to be the
 work of Dark wizards or witches unknown.
@@ -4657,13 +3635,7 @@ had been taken. The vault that was searched had in
 fact been emptied the same day.
 “But we’re not telling you what was in there, so
 keep your noses out if you know what’s good
-
-
 141
-
-
-
-CHAPTER EIGHT
 for you,” said a Gringotts spokesgoblin this afternoon.
 Harry remembered Ron telling him on the train that someone had
 tried to rob Gringotts, but Ron hadn’t mentioned the date.
@@ -4683,20 +3655,9 @@ given him as much to think about as tea with Hagrid. Had Hagrid
 collected that package just in time? Where was it now? And did
 Hagrid know something about Snape that he didn’t want to tell
 Harry?
-
-
-
 142
-
-
-
-CHAPTER NINE
-
-THE MIDNIGHT DUEL
-
-H
-
-arry had never believed he would meet a boy he hated
+|NINE|
+Harry had never believed he would meet a boy he hated
 more than Dudley, but that was before he met Draco
 Malfoy. Still, first-year Gryffindors only had Potions with the
 Slytherins, so they didn’t have to put up with Malfoy much. Or at
@@ -4710,13 +3671,7 @@ He had been looking forward to learning to fly more than anything else.
 “You don’t know that you’ll make a fool of yourself,” said Ron
 reasonably. “Anyway, I know Malfoy’s always going on about how
 good he is at Quidditch, but I bet that’s all talk.”
-
-
 143
-
-
-
-CHAPTER NINE
 Malfoy certainly did talk about flying a lot. He complained
 loudly about first years never getting on the House Quidditch
 teams and told long, boastful stories that always seemed to end
@@ -4742,13 +3697,7 @@ on to his broomstick later, but everybody else was very pleased
 when Hermione’s lecture was interrupted by the arrival of the mail.
 Harry hadn’t had a single letter since Hagrid’s note, something
 that Malfoy had been quick to notice, of course. Malfoy’s eagle owl
-
-
 144
-
-
-
-THE MIDNIGHT DUEL
 was always bringing him packages of sweets from home, which he
 opened gloatingly at the Slytherin table.
 A barn owl brought Neville a small package from his grandmother. He opened it excitedly and showed them a glass ball the
@@ -4773,13 +3722,7 @@ Goyle behind him.
 At three-thirty that afternoon, Harry, Ron, and the other Gryffindors hurried down the front steps onto the grounds for their first
 flying lesson. It was a clear, breezy day, and the grass rippled under
 their feet as they marched down the sloping lawns toward a
-
-
 145
-
-
-
-CHAPTER NINE
 smooth, flat lawn on the opposite side of the grounds to the forbidden forest, whose trees were swaying darkly in the distance.
 The Slytherins were already there, and so were twenty broomsticks lying in neat lines on the ground. Harry had heard Fred and
 George Weasley complain about the school brooms, saying that
@@ -4805,13 +3748,7 @@ without sliding off the end, and walked up and down the rows correcting their gr
 Malfoy he’d been doing it wrong for years.
 “Now, when I blow my whistle, you kick off from the ground,
 hard,” said Madam Hooch. “Keep your brooms steady, rise a few
-
-
 146
-
-
-
-THE MIDNIGHT DUEL
 feet, and then come straight back down by leaning forward slightly.
 On my whistle — three — two —”
 But Neville, nervous and jumpy and frightened of being left on
@@ -4840,13 +3777,7 @@ laughter.
 “Did you see his face, the great lump?”
 The other Slytherins joined in.
 “Shut up, Malfoy,” snapped Parvati Patil.
-
-
 147
-
-
-
-CHAPTER NINE
 “Ooh, sticking up for Longbottom?” said Pansy Parkinson, a
 hard-faced Slytherin girl. “Never thought you’d like fat little crybabies, Parvati.”
 “Look!” said Malfoy, darting forward and snatching something
@@ -4872,13 +3803,7 @@ was wonderful. He pulled his broomstick up a little to take it even
 higher, and heard screams and gasps of girls back on the ground and
 an admiring whoop from Ron.
 He turned his broomstick sharply to face Malfoy in midair. Malfoy looked stunned.
-
-
 148
-
-
-
-THE MIDNIGHT DUEL
 “Give it here,” Harry called, “or I’ll knock you off that broom!”
 “Oh, yeah?” said Malfoy, trying to sneer, but looking worried.
 Harry knew, somehow, what to do. He leaned forward and
@@ -4905,13 +3830,7 @@ was running toward them. He got to his feet, trembling.
 Professor McGonagall was almost speechless with shock, and
 her glasses flashed furiously, “— how dare you — might have broken your neck —”
 “It wasn’t his fault, Professor —”
-
-
 149
-
-
-
-CHAPTER NINE
 “Be quiet, Miss Patil —”
 “But Malfoy —”
 “That’s enough, Mr. Weasley. Potter, follow me, now.”
@@ -4936,13 +3855,7 @@ the door and poked her head inside.
 Wood? thought Harry, bewildered; was Wood a cane she was going to use on him?
 But Wood turned out to be a person, a burly fifth-year boy who
 came out of Flitwick’s class looking confused.
-
-
 150
-
-
-
-THE MIDNIGHT DUEL
 “Follow me, you two,” said Professor McGonagall, and they
 marched on up the corridor, Wood looking curiously at Harry.
 “In here.”
@@ -4970,13 +3883,7 @@ at once.
 “Wood’s captain of the Gryffindor team,” Professor McGonagall
 explained.
 “He’s just the build for a Seeker, too,” said Wood, now walking
-
-
 151
-
-
-
-CHAPTER NINE
 around Harry and staring at him. “Light — speedy — we’ll have
 to get him a decent broom, Professor — a Nimbus Two Thousand
 or a Cleansweep Seven, I’d say.”
@@ -5004,13 +3911,7 @@ Ron was so amazed, so impressed, he just sat and gaped at Harry.
 Wood wants to keep it a secret.”
 Fred and George Weasley now came into the hall, spotted Harry,
 and hurried over.
-
-
 152
-
-
-
-THE MIDNIGHT DUEL
 “Well done,” said George in a low voice. “Wood told us. We’re
 on the team too — Beaters.”
 “I tell you, we’re going to win that Quidditch Cup for sure this
@@ -5040,13 +3941,7 @@ Malfoy looked at Crabbe and Goyle, sizing them up.
 trophy room; that’s always unlocked.”
 When Malfoy had gone, Ron and Harry looked at each
 other.
-
-
 153
-
-
-
-CHAPTER NINE
 “What is a wizard’s duel?” said Harry. “And what do you mean,
 you’re my second?”
 “Well, a second’s there to take over if you die,” said Ron casually,
@@ -5074,13 +3969,7 @@ Harry thought, as he lay awake much later listening to Dean and
 Seamus falling asleep (Neville wasn’t back from the hospital wing).
 Ron had spent all evening giving him advice such as “If he tries to
 curse you, you’d better dodge it, because I can’t remember how to
-
-
 154
-
-
-
-THE MIDNIGHT DUEL
 block them.” There was a very good chance they were going to get
 caught by Filch or Mrs. Norris, and Harry felt he was pushing his
 luck, breaking another school rule today. On the other hand, Malfoy’s sneering face kept looming up out of the darkness — this was
@@ -5107,13 +3996,7 @@ through the portrait hole, hissing at them like an angry goose.
 all the points I got from Professor McGonagall for knowing about
 Switching Spells.”
 “Go away.”
-
-
 155
-
-
-
-CHAPTER NINE
 “All right, but I warned you, you just remember what I said
 when you’re on the train home tomorrow, you’re so —”
 But what they were, they didn’t find out. Hermione had turned
@@ -5143,13 +4026,7 @@ it won’t help you now, the Fat Lady’s gone off somewhere.”
 “How’s your arm?” said Harry.
 “Fine,” said Neville, showing them. “Madam Pomfrey mended
 it in about a minute.”
-
-
 156
-
-
-
-THE MIDNIGHT DUEL
 “Good — well, look, Neville, we’ve got to be somewhere, we’ll
 see you later —”
 “Don’t leave me!” said Neville, scrambling to his feet, “I don’t
@@ -5178,13 +4055,7 @@ just raised his wand when they heard someone speak — and it
 wasn’t Malfoy.
 “Sniff around, my sweet, they might be lurking in a corner.”
 It was Filch speaking to Mrs. Norris. Horror-struck, Harry
-
-
 157
-
-
-
-CHAPTER NINE
 waved madly at the other three to follow him as quickly as possible;
 they scurried silently toward the door, away from Filch’s voice.
 Neville’s robes had barely whipped round the corner when they
@@ -5213,13 +4084,7 @@ and spluttering.
 her chest, “I — told — you.”
 “We’ve got to get back to Gryffindor Tower,” said Ron, “quickly
 as possible.”
-
-
 158
-
-
-
-THE MIDNIGHT DUEL
 “Malfoy tricked you,” Hermione said to Harry. “You realize
 that, don’t you? He was never going to meet you — Filch knew
 someone was going to be in the trophy room, Malfoy must have
@@ -5245,13 +4110,7 @@ of the corridor where they slammed into a door — and it was
 locked.
 “This is it!” Ron moaned, as they pushed helplessly at the door,
 “We’re done for! This is the end!”
-
-
 159
-
-
-
-CHAPTER NINE
 They could hear footsteps, Filch running as fast as he could
 toward Peeves’s shouts.
 “Oh, move over,” Hermione snarled. She grabbed Harry’s wand,
@@ -5277,13 +4136,7 @@ knew why it was forbidden.
 They were looking straight into the eyes of a monstrous dog, a
 dog that filled the whole space between ceiling and floor. It had
 three heads. Three pairs of rolling, mad eyes; three noses, twitching
-
-
 160
-
-
-
-THE MIDNIGHT DUEL
 and quivering in their direction; three drooling mouths, saliva
 hanging in slippery ropes from yellowish fangs.
 It was standing quite still, all six eyes staring at them, and Harry
@@ -5310,13 +4163,7 @@ locked up in a school?” said Ron finally. “If any dog needs exercise,
 that one does.”
 Hermione had got both her breath and her bad temper back
 again.
-
-
 161
-
-
-
-CHAPTER NINE
 “You don’t use your eyes, any of you, do you?” she snapped.
 “Didn’t you see what it was standing on?”
 “The floor?” Harry suggested. “I wasn’t looking at its feet, I was
@@ -5335,20 +4182,9 @@ he climbed back into bed. The dog was guarding something. . . .
 What had Hagrid said? Gringotts was the safest place in the
 world for something you wanted to hide — except perhaps Hogwarts.
 It looked as though Harry had found out where the grubby little package from vault seven hundred and thirteen was.
-
-
-
 162
-
-
-
-CHAPTER TEN
-
-HALLOWEEN
-
-M
-
-alfoy couldn’t believe his eyes when he saw that Harry
+|TEN|
+Malfoy couldn’t believe his eyes when he saw that Harry
 and Ron were still at Hogwarts the next day, looking
 tired but perfectly cheerful. Indeed, by the next morning Harry
 and Ron thought that meeting the three-headed dog had been an
@@ -5363,13 +4199,7 @@ But as all they knew for sure about the mysterious object was
 that it was about two inches long, they didn’t have much chance of
 guessing what it was without further clues.
 Neither Neville nor Hermione showed the slightest interest in
-
-
 163
-
-
-
-CHAPTER TEN
 what lay underneath the dog and the trapdoor. All Neville cared
 about was never going near the dog again.
 Hermione was now refusing to speak to Harry and Ron, but she
@@ -5388,16 +4218,9 @@ It contains your new Nimbus Two Thousand, but I don’t
 want everybody knowing you’ve got a broomstick or they’ll
 all want one. Oliver Wood will meet you tonight on the
 Quidditch field at seven o’clock for your first training session.
-
 Harry had difficulty hiding his glee as he handed the note to Ron
 to read.
-
-
 164
-
-
-
-HALLOWEEN
 “A Nimbus Two Thousand!” Ron moaned enviously. “I’ve never
 even touched one.”
 They left the hall quickly, wanting to unwrap the broomstick in
@@ -5425,13 +4248,7 @@ laugh at the look of horror on Malfoy’s face. “And it’s really thanks
 to Malfoy here that I’ve got it,” he added.
 Harry and Ron headed upstairs, smothering their laughter at
 Malfoy’s obvious rage and confusion.
-
-
 165
-
-
-
-CHAPTER TEN
 “Well, it’s true,” Harry chortled as they reached the top of the
 marble staircase, “If he hadn’t stolen Neville’s Remembrall I
 wouldn’t be on the team. . . .”
@@ -5457,13 +4274,7 @@ stadium before. Hundreds of seats were raised in stands around the
 field so that the spectators were high enough to see what was going
 on. At either end of the field were three golden poles with hoops on
 the end. They reminded Harry of the little plastic sticks Muggle
-
-
 166
-
-
-
-HALLOWEEN
 children blew bubbles through, except that they were fifty feet
 high.
 Too eager to fly again to wait for Wood, Harry mounted his
@@ -5490,13 +4301,7 @@ through one of the hoops. Follow me?”
 score,” Harry recited. “So — that’s sort of like basketball on
 broomsticks with six hoops, isn’t it?”
 “What’s basketball?” said Wood curiously.
-
-
 167
-
-
-
-CHAPTER TEN
 “Never mind,” said Harry quickly.
 “Now, there’s another player on each side who’s called the
 Keeper — I’m Keeper for Gryffindor. I have to fly around our
@@ -5525,13 +4330,7 @@ trying to knock players off their brooms. That’s why you have two
 Beaters on each team — the Weasley twins are ours — it’s their job
 to protect their side from the Bludgers and try and knock them
 toward the other team. So — think you’ve got all that?”
-
-
 168
-
-
-
-HALLOWEEN
 “Three Chasers try and score with the Quaffle; the Keeper
 guards the goal posts; the Beaters keep the Bludgers away from their
 team,” Harry reeled off.
@@ -5557,13 +4356,7 @@ nearly always win. That’s why Seekers get fouled so much. A game
 of Quidditch only ends when the Snitch is caught, so it can go on
 for ages — I think the record is three months, they had to keep
 bringing on substitutes so the players could get some sleep.
-
-
 169
-
-
-
-CHAPTER TEN
 “Well, that’s it — any questions?”
 Harry shook his head. He understood what he had to do all
 right, it was doing it that was going to be the problem.
@@ -5589,13 +4382,7 @@ On Halloween morning they woke to the delicious smell of baking pumpkin wafting 
 Flitwick announced in Charms that he thought they were ready to
 start making objects fly, something they had all been dying to try
 since they’d seen him make Neville’s toad zoom around the classroom. Professor Flitwick put the class into pairs to practice. Harry’s
-
-
 170
-
-
-
-HALLOWEEN
 partner was Seamus Finnigan (which was a relief, because Neville
 had been trying to catch his eye). Ron, however, was to be working
 with Hermione Granger. It was hard to tell whether Ron or
@@ -5623,13 +4410,7 @@ their heads.
 “Oh, well done!” cried Professor Flitwick, clapping. “Everyone
 see here, Miss Granger’s done it!”
 Ron was in a very bad mood by the end of the class.
-
-
 171
-
-
-
-CHAPTER TEN
 “It’s no wonder no one can stand her,” he said to Harry as they
 pushed their way into the crowded corridor, “she’s a nightmare,
 honestly.”
@@ -5652,13 +4433,7 @@ on his face. Everyone stared as he reached Professor Dumbledore’s
 chair, slumped against the table, and gasped, “Troll — in the dungeons — thought you ought to know.”
 He then sank to the floor in a dead faint.
 There was an uproar. It took several purple firecrackers exploding from the end of Professor Dumbledore’s wand to bring silence.
-
-
 172
-
-
-
-HALLOWEEN
 “Prefects,” he rumbled, “lead your Houses back to the dormitories immediately!”
 Percy was in his element.
 “Follow me! Stick together, first years! No need to fear the troll
@@ -5685,13 +4460,7 @@ crossed the corridor and disappeared from view.
 “What’s he doing?” Harry whispered. “Why isn’t he down in the
 dungeons with the rest of the teachers?”
 “Search me.”
-
-
 173
-
-
-
-CHAPTER TEN
 Quietly as possible, they crept along the next corridor after
 Snape’s fading footsteps.
 “He’s heading for the third floor,” Harry said, but Ron held up
@@ -5715,13 +4484,8 @@ into the room.
 They edged toward the open door, mouths dry, praying the troll
 wasn’t about to come out of it. With one great leap, Harry managed to grab the key, slam the door, and lock it.
 “Yes!”
-Flushed with their victory, they started to run back up the pas
-
+Flushed with their victory, they started to run back up the pas
 174
-
-
-
-HALLOWEEN
 sage, but as they reached the corner they heard something that
 made their hearts stop — a high, petrified scream — and it was
 coming from the chamber they’d just chained up.
@@ -5750,13 +4514,7 @@ run around it.
 her toward the door, but she couldn’t move, she was still flat against
 the wall, her mouth open with terror.
 The shouting and the echoes seemed to be driving the troll
-
-
 175
-
-
-
-CHAPTER TEN
 berserk. It roared again and started toward Ron, who was nearest
 and had no way to escape.
 Harry then did something that was both very brave and very stupid: He took a great running jump and managed to fasten his arms
@@ -5782,13 +4540,7 @@ It was Hermione who spoke first.
 “I don’t think so,” said Harry, “I think it’s just been knocked out.”
 He bent down and pulled his wand out of the troll’s nose. It was
 covered in what looked like lumpy gray glue.
-
-
 176
-
-
-
-HALLOWEEN
 “Urgh — troll boogers.”
 He wiped it on the troll’s trousers.
 A sudden slamming and loud footsteps made the three of them
@@ -5816,13 +4568,7 @@ Hermione had managed to get to her feet at last.
 with it on my own — you know, because I’ve read all about them.”
 Ron dropped his wand. Hermione Granger, telling a downright
 lie to a teacher?
-
-
 177
-
-
-
-CHAPTER TEN
 “If they hadn’t found me, I’d be dead now. Harry stuck his wand
 up its nose and Ron knocked it out with its own club. They didn’t
 have time to come and fetch anyone. It was about to finish me off
@@ -5850,13 +4596,7 @@ they had climbed two floors up. It was a relief to be away from the
 smell of the troll, quite apart from anything else.
 “We should have gotten more than ten points,” Ron grumbled.
 “Five, you mean, once she’s taken off Hermione’s.”
-
-
 178
-
-
-
-HALLOWEEN
 “Good of her to get us out of trouble like that,” Ron admitted.
 “Mind you, we did save her.”
 “She might not have needed saving if we hadn’t locked the thing
@@ -5872,20 +4612,9 @@ But from that moment on, Hermione Granger became their
 friend. There are some things you can’t share without ending up
 liking each other, and knocking out a twelve-foot mountain troll is
 one of them.
-
-
-
 179
-
-
-
-CHAPTER ELEVEN
-
-QUIDDITCH
-
-A
-
-s they entered November, the weather turned very cold. The
+|ELEVEN|
+As they entered November, the weather turned very cold. The
 mountains around the school became icy gray and the
 lake like chilled steel. Every morning the ground was covered
 in frost. Hagrid could be seen from the upstairs windows defrosting broomsticks on the Quidditch field, bundled up in a long
@@ -5899,13 +4628,7 @@ Hardly anyone had seen Harry play because Wood had decided
 that, as their secret weapon, Harry should be kept, well, secret. But
 the news that he was playing Seeker had leaked out somehow, and
 Harry didn’t know which was worse — people telling him he’d be
-
-
 180
-
-
-
-QUIDDITCH
 brilliant or people telling him they’d be running around underneath him holding a mattress.
 It was really lucky that Harry now had Hermione as a friend. He
 didn’t know how he’d have gotten through all his homework without her, what with all the last-minute Quidditch practice Wood
@@ -5930,13 +4653,7 @@ faces caught Snape’s eye. He limped over. He hadn’t seen the fire,
 but he seemed to be looking for a reason to tell them off anyway.
 “What’s that you’ve got there, Potter?”
 It was Quidditch Through the Ages. Harry showed him.
-
-
 181
-
-
-
-CHAPTER ELEVEN
 “Library books are not to be taken outside the school,” said
 Snape. “Give it to me. Five points from Gryffindor.”
 “He’s just made that rule up,” Harry muttered angrily as Snape
@@ -5963,13 +4680,7 @@ handing Snape bandages.
 “Blasted thing,” Snape was saying. “How are you supposed to
 keep your eyes on all three heads at once?”
 Harry tried to shut the door quietly, but —
-
-
 182
-
-
-
-QUIDDITCH
 “POTTER!”
 Snape’s face was twisted with fury as he dropped his robes
 quickly to hide his leg. Harry gulped.
@@ -5994,13 +4705,8 @@ to empty his mind — he needed to sleep, he had to, he had his first
 Quidditch match in a few hours — but the expression on Snape’s
 face when Harry had seen his leg wasn’t easy to forget.
 The next morning dawned very bright and cold. The Great Hall
-was full of the delicious smell of fried sausages and the cheer
-
+was full of the delicious smell of fried sausages and the cheer
 183
-
-
-
-CHAPTER ELEVEN
 ful chatter of everyone looking forward to a good Quidditch
 match.
 “You’ve got to eat some breakfast.”
@@ -6027,13 +4733,7 @@ Meanwhile, in the locker room, Harry and the rest of the team
 were changing into their scarlet Quidditch robes (Slytherin would
 be playing in green).
 Wood cleared his throat for silence.
-
-
 184
-
-
-
-QUIDDITCH
 “Okay, men,” he said.
 “And women,” said Chaser Angelina Johnson.
 “And women,” Wood agreed. “This is it.”
@@ -6061,13 +4761,7 @@ Harry clambered onto his Nimbus Two Thousand.
 Madam Hooch gave a loud blast on her silver whistle.
 Fifteen brooms rose up, high, high into the air. They were off.
 “And the Quaffle is taken immediately by Angelina Johnson of
-
-
 185
-
-
-
-CHAPTER ELEVEN
 Gryffindor — what an excellent Chaser that girl is, and rather attractive, too —”
 “JORDAN!”
 “Sorry, Professor.”
@@ -6094,13 +4788,7 @@ the Slytherins.
 “Hagrid!”
 Ron and Hermione squeezed together to give Hagrid enough
 space to join them.
-
-
 186
-
-
-
-QUIDDITCH
 “Bin watchin’ from me hut,” said Hagrid, patting a large pair of
 binoculars around his neck, “But it isn’t the same as bein’ in the
 crowd. No sign of the Snitch yet, eh?”
@@ -6127,13 +4815,7 @@ had passed his left ear.
 Harry saw it. In a great rush of excitement he dived downward
 after the streak of gold. Slytherin Seeker Terence Higgs had seen it,
 too. Neck and neck they hurtled toward the Snitch — all the
-
-
 187
-
-
-
-CHAPTER ELEVEN
 Chasers seemed to have forgotten what they were supposed to be
 doing as they hung in midair to watch.
 Harry was faster than Higgs — he could see the little round ball,
@@ -6162,13 +4844,7 @@ Lee Jordan was finding it difficult not to take sides.
 “Jordan, I’m warning you —”
 “All right, all right. Flint nearly kills the Gryffindor Seeker, which
 could happen to anyone, I’m sure, so a penalty to Gryffindor,
-
-
 188
-
-
-
-QUIDDITCH
 taken by Spinnet, who puts it away, no trouble, and we continue
 play, Gryffindor still in possession.”
 It was as Harry dodged another Bludger, which went spinning
@@ -6194,13 +4870,7 @@ went.
 stared through his binoculars. “If I didn’ know better, I’d say he’d
 lost control of his broom . . . but he can’t have. . . .”
 Suddenly, people were pointing up at Harry all over the stands.
-
-
 189
-
-
-
-CHAPTER ELEVEN
 His broom had started to roll over and over, with him only just
 managing to hold on. Then the whole crowd gasped. Harry’s
 broom had given a wild jerk and Harry swung off it. He was now
@@ -6224,13 +4894,7 @@ longer. The whole crowd was on its feet, watching, terrified, as
 the Weasleys flew up to try and pull Harry safely onto one of
 their brooms, but it was no good — every time they got near him,
 the broom would jump higher still. They dropped lower and circled beneath him, obviously hoping to catch him if he fell. Marcus
-
-
 190
-
-
-
-QUIDDITCH
 Flint seized the Quaffle and scored five times without anyone
 noticing.
 “Come on, Hermione,” Ron muttered desperately.
@@ -6257,13 +4921,7 @@ the game ended in complete confusion.
 hadn’t broken any rules and Lee Jordan was still happily shouting
 the results — Gryffindor had won by one hundred and seventy
 points to sixty. Harry heard none of this, though. He was being
-
-
 191
-
-
-
-CHAPTER ELEVEN
 made a cup of strong tea back in Hagrid’s hut, with Ron and
 Hermione.
 “It was Snape,” Ron was explaining, “Hermione and I saw him.
@@ -6291,13 +4949,7 @@ do nothin’ of the sort.”
 The afternoon’s events certainly seemed to have changed her
 mind about Snape.
 “I know a jinx when I see one, Hagrid, I’ve read all about them!
-
-
 192
-
-
-
-QUIDDITCH
 You’ve got to keep eye contact, and Snape wasn’t blinking at all, I
 saw him!”
 “I’m tellin’ yeh, yer wrong!” said Hagrid hotly. “I don’ know why
@@ -6307,20 +4959,9 @@ forget what it’s guardin’, that’s between Professor Dumbledore an’
 Nicolas Flamel —”
 “Aha!” said Harry, “so there’s someone called Nicolas Flamel involved, is there?”
 Hagrid looked furious with himself.
-
-
-
 193
-
-
-
-CHAPTER TWELVE
-
-THE MIRROR OF ERISED
-
-C
-
-hristmas was coming. One morning in mid-December,
+|TWELVE|
+Christmas was coming. One morning in mid-December,
 Hogwarts woke to find itself covered in several feet of snow.
 The lake froze solid and the Weasley twins were punished for bewitching several snowballs so that they followed Quirrell around,
 bouncing off the back of his turban. The few owls that managed to
@@ -6332,13 +4973,7 @@ windows in the classrooms. Worst of all were Professor Snape’s
 classes down in the dungeons, where their breath rose in a mist
 before them and they kept as close as possible to their hot cauldrons.
 “I do feel so sorry,” said Draco Malfoy, one Potions class, “for all
-
-
 194
-
-
-
-THE MIRROR OF ERISED
 those people who have to stay at Hogwarts for Christmas because
 they’re not wanted at home.”
 He was looking over at Harry as he spoke. Crabbe and Goyle
@@ -6361,13 +4996,7 @@ through the branches.
 “Nah, I’m all right, thanks, Ron.”
 “Would you mind moving out of the way?” came Malfoy’s cold
 drawl from behind them. “Are you trying to earn some extra
-
-
 195
-
-
-
-CHAPTER TWELVE
 money, Weasley? Hoping to be gamekeeper yourself when you
 leave Hogwarts, I suppose — that hut of Hagrid’s must seem like a
 palace compared to what your family’s used to.”
@@ -6394,13 +5023,7 @@ The hall looked spectacular. Festoons of holly and mistletoe
 hung all around the walls, and no less than twelve towering Christmas trees stood around the room, some sparkling with tiny icicles,
 some glittering with hundreds of candles.
 “How many days you got left until yer holidays?” Hagrid asked.
-
-
 196
-
-
-
-THE MIRROR OF ERISED
 “Just one,” said Hermione. “And that reminds me — Harry,
 Ron, we’ve got half an hour before lunch, we should be in the library.”
 “Oh yeah, you’re right,” said Ron, tearing his eyes away from
@@ -6428,13 +5051,7 @@ find out what Snape was trying to steal? The trouble was, it was very
 hard to know where to begin, not knowing what Flamel might
 have done to get himself into a book. He wasn’t in Great Wizards of
 the Twentieth Century, or Notable Magical Names of Our Time; he
-
-
 197
-
-
-
-CHAPTER TWELVE
 was missing, too, from Important Modern Magical Discoveries, and
 A Study of Recent Developments in Wizardry. And then, of course,
 there was the sheer size of the library; tens of thousands of books;
@@ -6461,13 +5078,7 @@ Snape hearing what they were up to.
 Harry waited outside in the corridor to see if the other two had
 found anything, but he wasn’t very hopeful. They had been looking for two weeks, after all, but as they only had odd moments between lessons it wasn’t surprising they’d found nothing. What they
 really needed was a nice long search without Madam Pince breathing down their necks.
-
-
 198
-
-
-
-THE MIRROR OF ERISED
 Five minutes later, Ron and Hermione joined him, shaking their
 heads. They went off to lunch.
 “You will keep looking while I’m away, won’t you?” said
@@ -6495,13 +5106,7 @@ and they didn’t trust him at all. He wasn’t a very good player yet
 and they kept shouting different bits of advice at him, which was
 confusing. “Don’t send me there, can’t you see his knight? Send
 him, we can afford to lose him.”
-
-
 199
-
-
-
-CHAPTER TWELVE
 On Christmas Eve, Harry went to bed looking forward to the
 next day for the food and the fun, but not expecting any presents
 at all. When he woke early in the morning, however, the first thing
@@ -6529,13 +5134,7 @@ you didn’t expect any presents and — oh, no,” he groaned, “she’s
 made you a Weasley sweater.”
 Harry had torn open the parcel to find a thick, hand-knitted
 sweater in emerald green and a large box of homemade fudge.
-
-
 200
-
-
-
-THE MIRROR OF ERISED
 “Every year she makes us a sweater,” said Ron, unwrapping his
 own, “and mine’s always maroon.”
 “That’s really nice of her,” said Harry, trying the fudge, which
@@ -6562,13 +5161,7 @@ pulled the cloak over his head and his reflection vanished completely.
 “There’s a note!” said Ron suddenly. “A note fell out of it!”
 Harry pulled off the cloak and seized the letter. Written in narrow, loopy writing he had never seen before were the following
 words:
-
-
 201
-
-
-
-CHAPTER TWELVE
 Your father left this in my possession before
 he died. It is time it was returned to you.
 Use it well.
@@ -6596,13 +5189,7 @@ his head.
 “You haven’t got a letter on yours,” George observed. “I suppose
 she thinks you don’t forget your name. But we’re not stupid — we
 know we’re called Gred and Forge.”
-
-
 202
-
-
-
-THE MIRROR OF ERISED
 “What’s all this noise?”
 Percy Weasley stuck his head through the door, looking disapproving. He had clearly gotten halfway through unwrapping his
 presents as he, too, carried a lumpy sweater over his arm, which
@@ -6629,13 +5216,7 @@ had swapped his pointed wizard’s hat for a flowered bonnet, and
 was chuckling merrily at a joke Professor Flitwick had just read him.
 Flaming Christmas puddings followed the turkey. Percy nearly
 broke his teeth on a silver Sickle embedded in his slice. Harry
-
-
 203
-
-
-
-CHAPTER TWELVE
 watched Hagrid getting redder and redder in the face as he called
 for more wine, finally kissing Professor McGonagall on the cheek,
 who, to Harry’s amazement, giggled and blushed, her top hat lopsided.
@@ -6658,13 +5239,7 @@ Ron, full of turkey and cake and with nothing mysterious to
 bother him, fell asleep almost as soon as he’d drawn the curtains of
 his four-poster. Harry leaned over the side of his own bed and
 pulled the cloak out from under it.
-
-
 204
-
-
-
-THE MIRROR OF ERISED
 His father’s . . . this had been his father’s. He let the material
 flow over his hands, smoother than silk, light as air. Use it well, the
 note had said.
@@ -6690,13 +5265,8 @@ The library was pitch-black and very eerie. Harry lit a lamp to
 see his way along the rows of books. The lamp looked as if it was
 floating along in midair, and even though Harry could feel his arm
 supporting it, the sight gave him the creeps.
-The Restricted Section was right at the back of the library. Step
-
+The Restricted Section was right at the back of the library. Step
 205
-
-
-
-CHAPTER TWELVE
 ping carefully over the rope that separated these books from the
 rest of the library, he held up his lamp to read the titles.
 They didn’t tell him much. Their peeling, faded gold letters
@@ -6722,13 +5292,7 @@ He came to a sudden halt in front of a tall suit of armor. He had
 been so busy getting away from the library, he hadn’t paid attention
 to where he was going. Perhaps because it was dark, he didn’t recognize where he was at all. There was a suit of armor near the
 kitchens, he knew, but he must be five floors above there.
-
-
 206
-
-
-
-THE MIRROR OF ERISED
 “You asked me to come directly to you, Professor, if anyone was
 wandering around at night, and somebody’s been in the library —
 Restricted Section.”
@@ -6753,13 +5317,7 @@ way.
 It was a magnificent mirror, as high as the ceiling, with an ornate
 gold frame, standing on two clawed feet. There was an inscription
 carved around the top: Erised stra ehru oyt ube cafru oyt on wohsi.
-
-
 207
-
-
-
-CHAPTER TWELVE
 His panic fading now that there was no sound of Filch and
 Snape, Harry moved nearer to the mirror, wanting to look at himself but see no reflection again. He stepped in front of it.
 He had to clap his hands to his mouth to stop himself from
@@ -6787,13 +5345,7 @@ arm around her. He wore glasses, and his hair was very untidy. It
 stuck up at the back, just as Harry’s did.
 Harry was so close to the mirror now that his nose was nearly
 touching that of his reflection.
-
-
 208
-
-
-
-THE MIRROR OF ERISED
 “Mom?” he whispered. “Dad?”
 They just looked at him, smiling. And slowly, Harry looked into
 the faces of the other people in the mirror, and saw other pairs of
@@ -6819,13 +5371,8 @@ Shame about not finding Flamel, though. Have some bacon or
 something, why aren’t you eating anything?”
 Harry couldn’t eat. He had seen his parents and would be seeing
 them again tonight. He had almost forgotten about Flamel. It
-didn’t seem very important anymore. Who cared what the three
-
+didn’t seem very important anymore. Who cared what the three
 209
-
-
-
-CHAPTER TWELVE
 headed dog was guarding? What did it matter if Snape stole it,
 really?
 “Are you all right?” said Ron. “You look odd.”
@@ -6852,13 +5399,7 @@ couldn’t see his family anymore, just Ron in his paisley pajamas.
 Ron, though, was staring transfixed at his image.
 “Look at me!” he said.
 “Can you see all your family standing around you?”
-
-
 210
-
-
-
-THE MIRROR OF ERISED
 “No — I’m alone — but I’m different — I look older — and I’m
 Head Boy!”
 “What?”
@@ -6886,13 +5427,7 @@ And Ron pulled Harry out of the room.
 The snow still hadn’t melted the next morning.
 “Want to play chess, Harry?” said Ron.
 “No.”
-
-
 211
-
-
-
-CHAPTER TWELVE
 “Why don’t we go down and visit Hagrid?”
 “No . . . you go . . .”
 “I know what you’re thinking about, Harry, that mirror. Don’t
@@ -6919,13 +5454,7 @@ Harry felt as though his insides had turned to ice. He looked behind him. Sittin
 than Albus Dumbledore. Harry must have walked straight past
 him, so desperate to get to the mirror he hadn’t noticed him.
 “I — I didn’t see you, sir.”
-
-
 212
-
-
-
-THE MIRROR OF ERISED
 “Strange how nearsighted being invisible can make you,” said
 Dumbledore, and Harry was relieved to see that he was smiling.
 “So,” said Dumbledore, slipping off the desk to sit on the floor
@@ -6953,13 +5482,7 @@ brothers, sees himself standing alone, the best of all of them. However, this mi
 wasted away before it, entranced by what they have seen, or been
 driven mad, not knowing if what it shows is real or even possible.
 “The Mirror will be moved to a new home tomorrow, Harry,
-
-
 213
-
-
-
-CHAPTER TWELVE
 and I ask you not to go looking for it again. If you ever do run
 across it, you will now be prepared. It does not do to dwell on
 dreams and forget to live, remember that. Now, why don’t you put
@@ -6977,20 +5500,9 @@ It was only when he was back in bed that it struck Harry that
 Dumbledore might not have been quite truthful. But then, he
 thought, as he shoved Scabbers off his pillow, it had been quite a
 personal question.
-
-
-
 214
-
-
-
-CHAPTER THIRTEEN
-
-NICHOLAS FLAMEL
-
-D
-
-umbledore had convinced Harry not to go looking for the
+|THIRTEEN|
+Dumbledore had convinced Harry not to go looking for the
 Mirror of Erised again, and for the rest of the Christmas
 holidays the Invisibility Cloak stayed folded at the bottom of his
 trunk. Harry wished he could forget what he’d seen in the mirror
@@ -7005,10 +5517,7 @@ Harry being out of bed, roaming the school three nights in a row
 (“If Filch had caught you!”), and disappointment that he hadn’t at
 least found out who Nicolas Flamel was.
 They had almost given up hope of ever finding Flamel in a li-
-
 215
-
-CHAPTER THIRTEEN
 brary book, even though Harry was still sure he’d read the name
 somewhere. Once term had started, they were back to skimming
 through books for ten minutes during their breaks. Harry had even
@@ -7035,10 +5544,7 @@ fair if we might overtake Slytherin.”
 The rest of the team landed next to George to complain, too.
 “It’s not my fault,” said Wood. “We’ve just got to make sure we
 play a clean game, so Snape hasn’t got an excuse to pick on us.”
-
 216
-
-NICHOLAS FLAMEL
 Which was all very well, thought Harry, but he had another reason for not wanting Snape near him while he was playing Quidditch. . . .
 The rest of the team hung back to talk to one another as usual at
 the end of practice, but Harry headed straight back to the Gryffindor common room, where he found Ron and Hermione playing
@@ -7064,10 +5570,7 @@ bunny hop all the way up to Gryffindor Tower.
 Everyone fell over laughing except Hermione, who leapt up and
 performed the countercurse. Neville’s legs sprang apart and he got
 to his feet, trembling.
-
 217
-
-CHAPTER THIRTEEN
 “What happened?” Hermione asked him, leading him over to sit
 with Harry and Ron.
 “Malfoy,” said Neville shakily. “I met him outside the library. He
@@ -7094,10 +5597,7 @@ card.
 “Dumbledore again,” he said, “He was the first one I ever —”
 He gasped. He stared at the back of the card. Then he looked up
 at Ron and Hermione.
-
 218
-
-NICHOLAS FLAMEL
 “I’ve found him!” he whispered. “I’ve found Flamel! I told you I’d
 read the name somewhere before, I read it on the train coming
 here — listen to this: ‘Dumbledore is particularly famous for his
@@ -7125,10 +5625,7 @@ This didn’t have quite the effect she’d expected.
 “The what?” said Harry and Ron.
 “Oh, honestly, don’t you two read? Look — read that, there.”
 She pushed the book toward them, and Harry and Ron read:
-
 219
-
-CHAPTER THIRTEEN
 The ancient study of alchemy is concerned with making the Sorcerer’s Stone, a legendary substance with astonishing powers. The Stone will transform any metal
 into pure gold. It also produces the Elixir of Life,
 which will make the drinker immortal.
@@ -7152,10 +5649,7 @@ The next morning in Defense Against the Dark Arts, while copying down different 
 were still discussing what they’d do with a Sorcerer’s Stone if they
 had one. It wasn’t until Ron said he’d buy his own Quidditch team
 that Harry remembered about Snape and the coming match.
-
 220
-
-NICHOLAS FLAMEL
 “I’m going to play,” he told Ron and Hermione. “If I don’t, all
 the Slytherins will think I’m just too scared to face Snape. I’ll show
 them . . . it’ll really wipe the smiles off their faces if we win.”
@@ -7181,10 +5675,7 @@ Thousand.
 Ron and Hermione, meanwhile, had found a place in the stands
 next to Neville, who couldn’t understand why they looked so grim
 and worried, or why they had both brought their wands to the
-
 221
-
-CHAPTER THIRTEEN
 match. Little did Harry know that Ron and Hermione had been
 secretly practicing the Leg-Locker Curse. They’d gotten the idea
 from Malfoy using it on Neville, and were ready to use it on Snape
@@ -7212,10 +5703,7 @@ Someone had poked Ron in the back of the head. It was Malfoy.
 Malfoy grinned broadly at Crabbe and Goyle.
 “Wonder how long Potter’s going to stay on his broom this time?
 Anyone want a bet? What about you, Weasley?”
-
 222
-
-NICHOLAS FLAMEL
 Ron didn’t answer; Snape had just awarded Hufflepuff a penalty
 because George Weasley had hit a Bludger at him. Hermione, who
 had all her fingers crossed in her lap, was squinting fixedly at Harry,
@@ -7244,10 +5732,7 @@ fingers in her mouth, as Harry streaked toward the ground like a
 bullet.
 “You’re in luck, Weasley, Potter’s obviously spotted some money
 on the ground!” said Malfoy.
-
 223
-
-CHAPTER THIRTEEN
 Ron snapped. Before Malfoy knew what was happening, Ron
 was on top of him, wrestling him to the ground. Neville hesitated,
 then clambered over the back of his seat to help.
@@ -7273,10 +5758,7 @@ Harry felt a hand on his shoulder and looked up into Dumbledore’s smiling face
 hear. “Nice to see you haven’t been brooding about that mirror . . .
 been keeping busy . . . excellent . . .”
 Snape spat bitterly on the ground.
-
 224
-
-NICHOLAS FLAMEL
 Harry left the locker room alone some time later, to take his Nimbus Two Thousand back to the broomshed. He couldn’t ever remember feeling happier. He’d really done something to be proud of
 now — no one could say he was just a famous name any more. The
 evening air had never smelled so sweet. He walked over the damp
@@ -7303,10 +5785,7 @@ trees until he heard voices. He glided toward them and landed
 noiselessly in a towering beech tree.
 He climbed carefully along one of the branches, holding tight to
 his broomstick, trying to see through the leaves.
-
 225
-
-CHAPTER THIRTEEN
 Below, in a shadowy clearing, stood Snape, but he wasn’t alone.
 Quirrell was there, too. Harry couldn’t make out the look on his
 face, but he was stuttering worse than ever. Harry strained to catch
@@ -7334,10 +5813,7 @@ loyalties lie.”
 He threw his cloak over his head and strode out of the clearing.
 It was almost dark now, but Harry could see Quirrell, standing
 quite still as though he was petrified.
-
 226
-
-NICHOLAS FLAMEL
 “Harry, where have you been?” Hermione squeaked.
 “We won! You won! We won!” shouted Ron, thumping Harry
 on the back. “And I gave Malfoy a black eye, and Neville tried to
@@ -7358,17 +5834,9 @@ through —”
 “So you mean the Stone’s only safe as long as Quirrell stands up
 to Snape?” said Hermione in alarm.
 “It’ll be gone by next Tuesday,” said Ron.
-
 227
-
-CHAPTER FOURTEEN
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
-
-Q
-
-uirrell, however, must have been braver than they’d
+|FOURTEEN|
+Quirrell, however, must have been braver than they’d
 thought. In the weeks that followed he did seem to be getting paler and thinner, but it didn’t look as though he’d cracked yet.
 Every time they passed the third-floor corridor, Harry, Ron, and
 Hermione would press their ears to the door to check that Fluffy
@@ -7380,14 +5848,7 @@ Hermione, however, had more on her mind than the Sorcerer’s
 Stone. She had started drawing up study schedules and colorcoding all her notes. Harry and Ron wouldn’t have minded, but
 she kept nagging them to do the same.
 “Hermione, the exams are ages away.”
-
-
 228
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 “Ten weeks,” Hermione snapped. “That’s not ages, that’s like a
 second to Nicolas Flamel.”
 “But we’re not six hundred years old,” Ron reminded her. “Anyway, what are you studying for, you already know it all.”
@@ -7410,13 +5871,7 @@ He looked very out of place in his moleskin overcoat.
 “Jus’ lookin’,” he said, in a shifty voice that got their interest at
 once. “An’ what’re you lot up ter?” He looked suddenly suspicious.
 “Yer not still lookin’ fer Nicolas Flamel, are yeh?”
-
-
 229
-
-
-
-CHAPTER FOURTEEN
 “Oh, we found out who he is ages ago,” said Ron impressively.
 “And we know what that dog’s guarding, it’s a Sorcerer’s St —”
 “Shhhh!” Hagrid looked around quickly to see if anyone was listening. “Don’ go shoutin’ about it, what’s the matter with yeh?”
@@ -7441,14 +5896,8 @@ From Egg to Inferno, A Dragon Keeper’s Guide.”
 ever met him,” said Harry.
 “But it’s against our laws,” said Ron. “Dragon breeding was outlawed by the Warlocks’ Convention of 1709, everyone knows that.
 It’s hard to stop Muggles from noticing us if we’re keeping dragons
-in the back garden — anyway, you can’t tame dragons, it’s dan
-
+in the back garden — anyway, you can’t tame dragons, it’s dan
 230
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 gerous. You should see the burns Charlie’s got off wild ones in Romania.”
 “But there aren’t wild dragons in Britain?” said Harry.
 “Of course there are,” said Ron. “Common Welsh Green and
@@ -7474,13 +5923,7 @@ outta Gringotts — I s’ppose yeh’ve worked that out an’ all? Beats
 me how yeh even know abou’ Fluffy.”
 “Oh, come on, Hagrid, you might not want to tell us, but you
 do know, you know everything that goes on round here,” said
-
-
 231
-
-
-
-CHAPTER FOURTEEN
 Hermione in a warm, flattering voice. Hagrid’s beard twitched
 and they could tell he was smiling. “We only wondered who had
 done the guarding, really.” Hermione went on. “We wondered who
@@ -7506,14 +5949,7 @@ proudly.
 “Well, that’s something,” Harry muttered to the others. “Hagrid, can we have a window open? I’m boiling.”
 “Can’t, Harry, sorry,” said Hagrid. Harry noticed him glance at
 the fire. Harry looked at it, too.
-
-
 232
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 “Hagrid — what’s that?”
 But he already knew what it was. In the very heart of the fire, underneath the kettle, was a huge, black egg.
 “Ah,” said Hagrid, fiddling nervously with his beard, “That’s —
@@ -7538,13 +5974,7 @@ But Hagrid wasn’t listening. He was humming merrily as he
 stoked the fire.
 So now they had something else to worry about: what might happen to Hagrid if anyone found out he was hiding an illegal dragon
 in his hut.
-
-
 233
-
-
-
-CHAPTER FOURTEEN
 “Wonder what it’s like to have a peaceful life,” Ron sighed, as
 evening after evening they struggled through all the extra homework they were getting. Hermione had now started making study
 schedules for Harry and Ron, too. It was driving them nuts.
@@ -7568,14 +5998,7 @@ Hagrid greeted them, looking flushed and excited.
 The egg was lying on the table. There were deep cracks in it. Something was moving inside; a funny clicking noise was coming from it.
 They all drew their chairs up to the table and watched with
 bated breath.
-
-
 234
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 All at once there was a scraping noise and the egg split open.
 The baby dragon flopped onto the table. It wasn’t exactly pretty;
 Harry thought it looked like a crumpled, black umbrella. Its spiny
@@ -7603,13 +6026,7 @@ spent most of their free time in Hagrid’s darkened hut, trying to
 reason with him.
 “Just let him go,” Harry urged. “Set him free.”
 “I can’t,” said Hagrid. “He’s too little. He’d die.”
-
-
 235
-
-
-
-CHAPTER FOURTEEN
 They looked at the dragon. It had grown three times in length in
 just a week. Smoke kept furling out of its nostrils. Hagrid hadn’t
 been doing his gamekeeping duties because the dragon was keeping him so busy. There were empty brandy bottles and chicken
@@ -7635,14 +6052,7 @@ And in the end, Hagrid agreed that they could send an owl to
 Charlie to ask him.
 The following week dragged by. Wednesday night found Hermione and Harry sitting alone in the common room, long after
 everyone else had gone to bed. The clock on the wall had just
-
-
 236
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 chimed midnight when the portrait hole burst open. Ron appeared
 out of nowhere as he pulled off Harry’s Invisibility Cloak. He had
 been down at Hagrid’s hut, helping him feed Norbert, who was
@@ -7667,13 +6077,7 @@ away while it’s still dark.
 Send me an answer as soon as possible.
 Love,
 Charlie
-
-
 237
-
-
-
-CHAPTER FOURTEEN
 They looked at one another.
 “We’ve got the Invisibility Cloak,” said Harry. “It shouldn’t be
 too difficult — I think the cloak’s big enough to cover two of us
@@ -7700,14 +6104,7 @@ and broke into a sweat.
 “Midnight on Saturday!” he said in a hoarse voice. “Oh no —
 oh no — I’ve just remembered — Charlie’s letter was in that book
 Malfoy took, he’s going to know we’re getting rid of Norbert.”
-
-
 238
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 Harry and Hermione didn’t get a chance to answer. Madam
 Pomfrey came over at that moment and made them leave, saying
 Ron needed sleep.
@@ -7732,13 +6129,7 @@ what they had to do. It was a very dark, cloudy night, and they
 were a bit late arriving at Hagrid’s hut because they’d had to wait
 for Peeves to get out of their way in the entrance hall, where he’d
 been playing tennis against the wall.
-
-
 239
-
-
-
-CHAPTER FOURTEEN
 Hagrid had Norbert packed and ready in a large crate.
 “He’s got lots o’ rats an’ some brandy fer the journey,” said Hagrid in a muffled voice. “An’ I’ve packed his teddy bear in case he
 gets lonely.”
@@ -7763,14 +6154,7 @@ Wandering around in the middle of the night, how dare you —”
 got a dragon!”
 “What utter rubbish! How dare you tell such lies! Come on — I
 shall see Professor Snape about you, Malfoy!”
-
-
 240
-
-
-
-NORBERT THE
-NORWEGIAN RIDGEBACK
 The steep spiral staircase up to the top of the tower seemed the
 easiest thing in the world after that. Not until they’d stepped out
 into the cold night air did they throw off the cloak, glad to be able
@@ -7793,20 +6177,9 @@ stepped into the corridor, Filch’s face loomed suddenly out of the
 darkness.
 “Well, well, well,” he whispered, “we are in trouble.”
 They’d left the Invisibility Cloak on top of the tower.
-
-
-
 241
-
-
-
-CHAPTER FIFTEEN
-
-THE FORBIDDEN FOREST
-
-T
-
-hings couldn’t have been worse.
+|FIFTEEN|
+Things couldn’t have been worse.
 Filch took them down to Professor McGonagall’s study
 on the first floor, where they sat and waited without saying a word
 to each other. Hermione was trembling. Excuses, alibis, and wild
@@ -7820,13 +6193,7 @@ might as well be packing their bags already.
 Had Harry thought that things couldn’t have been worse? He
 was wrong. When Professor McGonagall appeared, she was leading
 Neville.
-
-
 242
-
-
-
-THE FORBIDDEN FOREST
 “Harry!” Neville burst out, the moment he saw the other two. “I
 was trying to find you to warn you, I heard Malfoy saying he was
 going to catch you, he said you had a drag —”
@@ -7852,13 +6219,7 @@ Miss Granger, I thought you had more sense. As for you, Mr. Potter, I thought Gr
 you will receive detentions — yes, you too, Mr. Longbottom,
 nothing gives you the right to walk around school at night, especially these days, it’s very dangerous — and fifty points will be
 taken from Gryffindor.”
-
-
 243
-
-
-
-CHAPTER FIFTEEN
 “Fifty?” Harry gasped — they would lose the lead, the lead he’d
 won in the last Quidditch match.
 “Fifty points each,” said Professor McGonagall, breathing heavily through her long, pointed nose.
@@ -7884,13 +6245,7 @@ From being one of the most popular and admired people at the
 school, Harry was suddenly the most hated. Even Ravenclaws and
 Hufflepuffs turned on him, because everyone had been longing to
 see Slytherin lose the House Cup. Everywhere Harry went, people
-
-
 244
-
-
-
-THE FORBIDDEN FOREST
 pointed and didn’t trouble to lower their voices as they insulted
 him. Slytherins, on the other hand, clapped as he walked past
 them, whistling and cheering, “Thanks Potter, we owe you one!”
@@ -7919,13 +6274,7 @@ Harry was almost glad that the exams weren’t far away. All the
 studying he had to do kept his mind off his misery. He, Ron, and
 Hermione kept to themselves, working late into the night, trying
 to remember the ingredients in complicated potions, learn charms
-
-
 245
-
-
-
-CHAPTER FIFTEEN
 and spells by heart, memorize the dates of magical discoveries and
 goblin rebellions. . . .
 Then, about a week before the exams were due to start, Harry’s
@@ -7953,13 +6302,8 @@ Ron on Astronomy. Harry told them what he’d heard.
 break his Anti-Dark Force spell —”
 “There’s still Fluffy, though,” said Hermione.
 “Maybe Snape’s found out how to get past him without asking
-Hagrid,” said Ron, looking up at the thousands of books sur
-
+Hagrid,” said Ron, looking up at the thousands of books sur
 246
-
-
-
-THE FORBIDDEN FOREST
 rounding them. “I bet there’s a book somewhere in here telling you
 how to get past a giant three-headed dog. So what do we do,
 Harry?”
@@ -7985,14 +6329,7 @@ The following morning, notes were delivered to Harry, Hermione,
 and Neville at the breakfast table. They were all the same:
 Your detention will take place at eleven o’clock tonight.
 Meet Mr. Filch in the entrance hall.
-
-
-
 247
-
-
-
-CHAPTER FIFTEEN
 Harry had forgotten they still had detentions to do in the furor
 over the points they’d lost. He half expected Hermione to complain
 that this was a whole night of studying lost, but she didn’t say a
@@ -8015,13 +6352,7 @@ The moon was bright, but clouds scudding across it kept throwing them into darkn
 “Is that you, Filch? Hurry up, I want ter get started.”
 Harry’s heart rose; if they were going to be working with Hagrid
 it wouldn’t be so bad. His relief must have showed in his face, because Filch said, “I suppose you think you’ll be enjoying yourself
-
-
 248
-
-
-
-THE FORBIDDEN FOREST
 with that oaf? Well, think again, boy — it’s into the forest you’re
 going and I’m much mistaken if you’ll all come out in one piece.”
 At this, Neville let out a little moan, and Malfoy stopped dead in
@@ -8050,13 +6381,7 @@ lamp bobbing away in the darkness.
 Malfoy now turned to Hagrid.
 “I’m not going in that forest,” he said, and Harry was pleased to
 hear the note of panic in his voice.
-
-
 249
-
-
-
-CHAPTER FIFTEEN
 “Yeh are if yeh want ter stay at Hogwarts,” said Hagrid fiercely.
 “Yeh’ve done wrong an’ now yeh’ve got ter pay fer it.”
 “But this is servant stuff, it’s not for students to do. I thought
@@ -8080,13 +6405,8 @@ We might have ter put it out of its misery.”
 Malfoy, unable to keep the fear out of his voice.
 “There’s nothin’ that lives in the forest that’ll hurt yeh if yer with
 me or Fang,” said Hagrid. “An’ keep ter the path. Right, now, we’re
-gonna split inter two parties an’ follow the trail in diff ’rent direc
-
+gonna split inter two parties an’ follow the trail in diff ’rent direc
 250
-
-
-
-THE FORBIDDEN FOREST
 tions. There’s blood all over the place, it must’ve bin staggerin’
 around since last night at least.”
 “I want Fang,” said Malfoy quickly, looking at Fang’s long teeth.
@@ -8114,13 +6434,7 @@ can’t’ve gone far if it’s this badly hurt, an’ then we’ll be able ter 
 GET BEHIND THAT TREE!”
 Hagrid seized Harry and Hermione and hoisted them off the
 path behind a towering oak. He pulled out an arrow and fitted it
-
-
 251
-
-
-
-CHAPTER FIFTEEN
 into his crossbow, raising it, ready to fire. The three of them listened. Something was slithering over dead leaves nearby: it
 sounded like a cloak trailing along the ground. Hagrid was squinting up the dark path, but after a few seconds, the sound faded
 away.
@@ -8147,13 +6461,7 @@ is Ronan, you two. He’s a centaur.”
 “We’d noticed,” said Hermione faintly.
 “Good evening,” said Ronan. “Students, are you? And do you
 learn much, up at the school?”
-
-
 252
-
-
-
-THE FORBIDDEN FOREST
 “Erm —”
 “A bit,” said Hermione timidly.
 “A bit. Well, that’s something.” Ronan sighed. He flung back his
@@ -8179,13 +6487,7 @@ bow again, but it was only a second centaur, black-haired and
 “Well enough. Look, I’ve jus’ bin askin’ Ronan, you seen anythin’ odd in here lately? There’s a unicorn bin injured — would yeh
 know anythin’ about it?”
 Bane walked over to stand next to Ronan. He looked skyward.
-
-
 253
-
-
-
-CHAPTER FIFTEEN
 “Mars is bright tonight,” he said simply.
 “We’ve heard,” said Hagrid grumpily. “Well, if either of you do
 see anythin’, let me know, won’t yeh? We’ll be off, then.”
@@ -8212,13 +6514,7 @@ come back for yeh!”
 They heard him crashing away through the undergrowth and
 stood looking at each other, very scared, until they couldn’t hear
 anything but the rustling of leaves around them.
-
-
 254
-
-
-
-THE FORBIDDEN FOREST
 “You don’t think they’ve been hurt, do you?” whispered
 Hermione.
 “I don’t care if Malfoy has, but if something’s got Neville . . . it’s
@@ -8246,13 +6542,7 @@ Something bright white was gleaming on the ground. They
 inched closer.
 It was the unicorn all right, and it was dead. Harry had never
 seen anything so beautiful and sad. Its long, slender legs were stuck
-
-
 255
-
-
-
-CHAPTER FIFTEEN
 out at odd angles where it had fallen and its mane was spread
 pearly-white on the dark leaves.
 Harry had taken one step toward it when a slithering sound
@@ -8280,13 +6570,7 @@ body.
 The centaur didn’t answer. He had astonishingly blue eyes, like
 pale sapphires. He looked carefully at Harry, his eyes lingering on
 the scar that stood out, livid, on Harry’s forehead.
-
-
 256
-
-
-
-THE FORBIDDEN FOREST
 “You are the Potter boy,” he said. “You had better get back to
 Hagrid. The forest is not safe at this time — especially for you.
 Can you ride? It will be quicker this way.
@@ -8312,13 +6596,7 @@ Harry had to grab his shoulders to stay on.
 you not understand why it was killed? Or have the planets not let
 you in on that secret? I set myself against what is lurking in this forest, Bane, yes, with humans alongside me if I must.”
 And Firenze whisked around; with Harry clutching on as best he
-
-
 257
-
-
-
-CHAPTER FIFTEEN
 could, they plunged off into the trees, leaving Ronan and Bane behind them.
 Harry didn’t have a clue what was going on.
 “Why’s Bane so angry?” he asked. “What was that thing you
@@ -8343,13 +6621,7 @@ silver in the moonlight.
 “It is,” Firenze agreed, “unless all you need is to stay alive long
 enough to drink something else — something that will bring you
 back to full strength and power — something that will mean you
-
-
 258
-
-
-
-THE FORBIDDEN FOREST
 can never die. Mr. Potter, do you know what is hidden in the
 school at this very moment?”
 “The Sorcerer’s Stone! Of course — the Elixir of Life! But I don’t
@@ -8375,13 +6647,7 @@ those times.”
 He turned and cantered back into the depths of the forest, leaving Harry shivering behind him.
 Ron had fallen asleep in the dark common room, waiting for them
 to return. He shouted something about Quidditch fouls when
-
-
 259
-
-
-
-CHAPTER FIFTEEN
 Harry roughly shook him awake. In a matter of seconds, though,
 he was wide-eyed as Harry began to tell him and Hermione what
 had happened in the forest.
@@ -8405,35 +6671,16 @@ Hermione looked very frightened, but she had a word of comfort.
 sounds like fortune-telling to me, and Professor McGonagall says
 that’s a very imprecise branch of magic.”
 The sky had turned light before they stopped talking. They went
-
-
 260
-
-
-
-THE FORBIDDEN FOREST
 to bed exhausted, their throats sore. But the night’s surprises
 weren’t over.
 When Harry pulled back his sheets, he found his Invisibility
 Cloak folded neatly underneath them. There was a note pinned
 to it:
-
 Just in case.
-
-
-
 261
-
-
-
-CHAPTER SIXTEEN
-
-THROUGH
-THE TRAPDOOR
-
-I
-
-n years to come, Harry would never quite remember how he
+|SIXTEEN|
+In years to come, Harry would never quite remember how he
 had managed to get through his exams when he half expected
 Voldemort to come bursting through the door at any moment. Yet
 the days crept by, and there could be no doubt that Fluffy was still
@@ -8446,13 +6693,7 @@ one by one into his class to see if they could make a pineapple tapdance across 
 mouse into a snuffbox — points were given for how pretty the
 snuffbox was, but taken away if it had whiskers. Snape made them
 all nervous, breathing down their necks while they tried to remember how to make a Forgetfulness potion.
-
-
 262
-
-
-
-THROUGH THE TRAPDOOR
 Harry did the best he could, trying to ignore the stabbing pains
 in his forehead, which had been bothering him ever since his trip
 into the forest. Neville thought Harry had a bad case of exam
@@ -8476,13 +6717,7 @@ the uprising of Elfric the Eager.”
 Hermione always liked to go through their exam papers afterward, but Ron said this made him feel ill, so they wandered down
 to the lake and flopped under a tree. The Weasley twins and Lee
 Jordan were tickling the tentacles of a giant squid, which was basking in the warm shallows.
-
-
 263
-
-
-
-CHAPTER SIXTEEN
 “No more studying,” Ron sighed happily, stretching out on the
 grass. “You could look more cheerful, Harry, we’ve got a week before we find out how badly we’ve done, there’s no need to worry
 yet.”
@@ -8505,13 +6740,7 @@ school across the bright blue sky, a note clamped in its mouth. Hagrid was the o
 never betray Dumbledore. Hagrid would never tell anyone how to
 get past Fluffy . . . never . . . but —
 Harry suddenly jumped to his feet.
-
-
 264
-
-
-
-THROUGH THE TRAPDOOR
 “Where’re you going?” said Ron sleepily.
 “I’ve just thought of something,” said Harry. He had turned
 white. “We’ve got to go and see Hagrid, now.”
@@ -8539,13 +6768,7 @@ He saw the three of them look stunned and raised his eyebrows.
 Head — that’s one o’ the pubs down in the village. Mighta bin a
 dragon dealer, mightn’ he? I never saw his face, he kept his hood up.”
 Harry sank down next to the bowl of peas.
-
-
 265
-
-
-
-CHAPTER SIXTEEN
 “What did you talk to him about, Hagrid? Did you mention
 Hogwarts at all?”
 “Mighta come up,” said Hagrid, frowning as he tried to remember. “Yeah . . . he asked what I did, an’ I told him I was gamekeeper
@@ -8570,13 +6793,7 @@ and gloomy after the grounds.
 “We’ve got to go to Dumbledore,” said Harry. “Hagrid told that
 stranger how to get past Fluffy, and it was either Snape or Voldemort under that cloak — it must’ve been easy, once he’d got Hagrid drunk. I just hope Dumbledore believes us. Firenze might
 back us up if Bane doesn’t stop him. Where’s Dumbledore’s office?”
-
-
 266
-
-
-
-THROUGH THE TRAPDOOR
 They looked around, as if hoping to see a sign pointing them in
 the right direction. They had never been told where Dumbledore
 lived, nor did they know anyone who had been sent to see him.
@@ -8602,13 +6819,7 @@ many demands on his time —”
 Whatever Professor McGonagall had expected, it wasn’t that.
 The books she was carrying tumbled out of her arms, but she didn’t
 pick them up.
-
-
 267
-
-
-
-CHAPTER SIXTEEN
 “How do you know — ?” she spluttered.
 “Professor, I think — I know — that Sn— that someone’s going
 to try and steal the Stone. I’ve got to talk to Professor Dumbledore.”
@@ -8635,13 +6846,7 @@ twisted smile.
 “We were —” Harry began, without any idea what he was going
 to say.
 “You want to be more careful,” said Snape. “Hanging around
-
-
 268
-
-
-
-THROUGH THE TRAPDOOR
 like this, people will think you’re up to something. And Gryffindor
 really can’t afford to lose any more points, can it?”
 Harry flushed. They turned to go outside, but Snape called them
@@ -8668,13 +6873,7 @@ temper.
 “I suppose you think you’re harder to get past than a pack of enchantments!” she stormed. “Enough of this nonsense! If I hear
 you’ve come anywhere near here again, I’ll take another fifty points
 from Gryffindor! Yes, Weasley, from my own House!”
-
-
 269
-
-
-
-CHAPTER SIXTEEN
 Harry and Ron went back to the common room. Harry had just
 said, “At least Hermione’s on Snape’s tail,” when the portrait of the
 Fat Lady swung open and Hermione came in.
@@ -8701,13 +6900,7 @@ I would have, because I’m never going over to the Dark Side! I’m
 going through that trapdoor tonight and nothing you two say is
 going to stop me! Voldemort killed my parents, remember?”
 He glared at them.
-
-
 270
-
-
-
-THROUGH THE TRAPDOOR
 “You’re right, Harry,” said Hermione in a small voice.
 “I’ll use the Invisibility Cloak,” said Harry. “It’s just lucky I got
 it back.”
@@ -8732,13 +6925,7 @@ Slowly, the room emptied as people drifted off to bed.
 stretching and yawning. Harry ran upstairs to their dark dormitory. He pulled out the cloak and then his eyes fell on the flute Hagrid had given him for Christmas. He pocketed it to use on
 Fluffy — he didn’t feel much like singing.
 He ran back down to the common room.
-
-
 271
-
-
-
-CHAPTER SIXTEEN
 “We’d better put the cloak on here, and make sure it covers all
 three of us — if Filch spots one of our feet wandering along on its
 own —”
@@ -8765,13 +6952,7 @@ an idiot —”
 “Don’t you call me an idiot!” said Neville. “I don’t think you
 should be breaking any more rules! And you were the one who told
 me to stand up to people!”
-
-
 272
-
-
-
-THROUGH THE TRAPDOOR
 “Yes, but not to us,” said Ron in exasperation. “Neville, you
 don’t know what you’re doing.”
 He took a step forward and Neville dropped Trevor the toad,
@@ -8799,13 +6980,7 @@ But leaving Neville lying motionless on the floor didn’t feel like
 a very good omen. In their nervous state, every statue’s shadow
 looked like Filch, every distant breath of wind sounded like Peeves
 swooping down on them.
-
-
 273
-
-
-
-CHAPTER SIXTEEN
 At the foot of the first set of stairs, they spotted Mrs. Norris
 skulking near the top.
 “Oh, let’s kick her, just this once,” Ron whispered in Harry’s ear,
@@ -8833,13 +7008,7 @@ this place tonight.”
 “I will, sir, I most certainly will,” said Peeves, rising up in the air
 again. “Hope your business goes well, Baron, I’ll not bother you.”
 And he scooted off.
-
-
 274
-
-
-
-THROUGH THE TRAPDOOR
 “Brilliant, Harry!” whispered Ron.
 A few seconds later, they were there, outside the third-floor corridor — and the door was already ajar.
 “Well, there you are,” Harry said quietly, “Snape’s already got
@@ -8867,13 +7036,7 @@ asleep.
 “Keep playing,” Ron warned Harry as they slipped out of the
 cloak and crept toward the trapdoor. They could feel the dog’s hot,
 smelly breath as they approached the giant heads.
-
-
 275
-
-
-
-CHAPTER SIXTEEN
 “I think we’ll be able to pull the door open,” said Ron, peering
 over the dog’s back. “Want to go first, Hermione?”
 “No, I don’t!”
@@ -8901,13 +7064,7 @@ Hedwig to Dumbledore, right?”
 And Harry let go. Cold, damp air rushed past him as he fell
 down, down, down and —
 FLUMP. With a funny, muffled sort of thump he landed on
-
-
 276
-
-
-
-THROUGH THE TRAPDOOR
 something soft. He sat up and felt around, his eyes not used to the
 gloom. It felt as though he was sitting on some sort of plant.
 “It’s okay!” he called up to the light the size of a postage stamp,
@@ -8936,13 +7093,7 @@ is — it’s Devil’s Snare!”
 “Oh, I’m so glad we know what it’s called, that’s a great help,”
 snarled Ron, leaning back, trying to stop the plant from curling
 around his neck.
-
-
 277
-
-
-
-CHAPTER SIXTEEN
 “Shut up, I’m trying to remember how to kill it!” said Hermione.
 “Well, hurry up, I can’t breathe!” Harry gasped, wrestling with it
 as it curled around his chest.
@@ -8969,13 +7120,7 @@ of water trickling down the walls. The passageway sloped downward, and Harry was
 jolt of the heart, he remembered the dragons said to be guarding
 vaults in the wizards’ bank. If they met a dragon, a fully-grown
 dragon — Norbert had been bad enough . . .
-
-
 278
-
-
-
-THROUGH THE TRAPDOOR
 “Can you hear something?” Ron whispered.
 Harry listened. A soft rustling and clinking seemed to be coming from up ahead.
 “Do you think it’s a ghost?”
@@ -9002,13 +7147,7 @@ Hermione.
 They watched the birds soaring overhead, glittering — glittering?
 “They’re not birds!” Harry said suddenly. “They’re keys! Winged
 keys — look carefully. So that must mean . . .” he looked around
-
-
 279
-
-
-
-CHAPTER SIXTEEN
 the chamber while the other two squinted up at the flock of keys.
 “. . . yes — look! Broomsticks! We’ve got to catch the key to the
 door!”
@@ -9033,13 +7172,7 @@ and I’ll try and catch it. Right, NOW!”
 Ron dived, Hermione rocketed upward, the key dodged them
 both, and Harry streaked after it; it sped toward the wall, Harry
 leaned forward and with a nasty, crunching noise, pinned it against
-
-
 280
-
-
-
-THROUGH THE TRAPDOOR
 the stone with one hand. Ron and Hermione’s cheers echoed
 around the high chamber.
 They landed quickly, and Harry ran to the door, the key struggling in his hand. He rammed it into the lock and turned — it
@@ -9064,13 +7197,7 @@ the knights horse. At once, the stone sprang to life. The horse pawed
 the ground and the knight turned his helmeted head to look down
 at Ron.
 “Do we — er — have to join you to get across?”
-
-
 281
-
-
-
-CHAPTER SIXTEEN
 The black knight nodded. Ron turned to the other two.
 “This needs thinking about. . . .” he said. “I suppose we’ve got
 to take the place of three of the black pieces. . . .”
@@ -9099,13 +7226,7 @@ The white queen smashed him to the floor and dragged him off the
 board, where he lay quite still, facedown.
 “Had to let that happen,” said Ron, looking shaken. “Leaves you
 free to take that bishop, Hermione, go on.”
-
-
 282
-
-
-
-THROUGH THE TRAPDOOR
 Every time one of their men was lost, the white pieces showed
 no mercy. Soon there was a huddle of limp black players slumped
 along the wall. Twice, Ron only just noticed in time that Harry
@@ -9133,13 +7254,7 @@ floor — Hermione screamed but stayed on her square — the white
 queen dragged Ron to one side. He looked as if he’d been knocked
 out.
 Shaking, Harry moved three spaces to the left.
-
-
 283
-
-
-
-CHAPTER SIXTEEN
 The white king took off his crown and threw it at Harry’s feet.
 They had won. The chessmen parted and bowed, leaving the door
 ahead clear. With one last desperate look back at Ron, Harry and
@@ -9168,13 +7283,7 @@ on it in a line.
 “Snape’s,” said Harry. “What do we have to do?”
 They stepped over the threshold, and immediately a fire sprang
 up behind them in the doorway. It wasn’t ordinary fire either; it was
-
-
 284
-
-
-
-THROUGH THE TRAPDOOR
 purple. At the same instant, black flames shot up in the doorway
 leading onward. They were trapped.
 “Look!” Hermione seized a roll of paper lying next to the bottles.
@@ -9201,13 +7310,7 @@ smiling, the very last thing he felt like doing.
 puzzle. A lot of the greatest wizards haven’t got an ounce of logic,
 they’d be stuck in here forever.”
 “But so will we, won’t we?”
-
-
 285
-
-
-
-CHAPTER SIXTEEN
 “Of course not,” said Hermione. “Everything we need is here on
 this paper. Seven bottles: three are poison; two are wine; one will
 get us safely through the black fire, and one will get us back
@@ -9236,13 +7339,7 @@ Snape off for a while, but I’m no match for him, really.”
 scar. “I might get lucky again.”
 Hermione’s lip trembled, and she suddenly dashed at Harry and
 threw her arms around him.
-
-
 286
-
-
-
-THROUGH THE TRAPDOOR
 “Hermione!”
 “Harry — you’re a great wizard, you know.”
 “I’m not as good as you,” said Harry, very embarrassed, as she let
@@ -9271,20 +7368,9 @@ could see nothing but dark fire — then he was on the other side, in
 the last chamber.
 There was already someone there — but it wasn’t Snape. It
 wasn’t even Voldemort.
-
-
 287
-
-
-
-CHAPTER SEVENTEEN
-
-THE MAN
-WITH TWO FACES
-
-I
-
-t was Quirrell.
+|SEVENTEEN|
+It was Quirrell.
 “You!” gasped Harry.
 Quirrell smiled. His face wasn’t twitching at all.
 “Me,” he said calmly. “I wondered whether I’d be meeting you
@@ -9298,14 +7384,7 @@ Harry couldn’t take it in. This couldn’t be true, it couldn’t.
 “But Snape tried to kill me!”
 “No, no, no. I tried to kill you. Your friend Miss Granger accidentally knocked me over as she rushed to set fire to Snape at that
 Quidditch match. She broke my eye contact with you. Another
-
-
 288
-
-
-
-THE MAN
-WITH TWO FACES
 few seconds and I’d have got you off that broom. I’d have managed
 it before then if Snape hadn’t been muttering a countercurse, trying to save you.”
 “Snape was trying to save me?”
@@ -9333,13 +7412,8 @@ properly.
 mirror.”
 It was only then that Harry realized what was standing behind
 Quirrell. It was the Mirror of Erised.
-“This mirror is the key to finding the Stone,” Quirrell mur
-
+“This mirror is the key to finding the Stone,” Quirrell mur
 289
-
-
-
-CHAPTER SEVENTEEN
 mured, tapping his way around the frame. “Trust Dumbledore to
 come up with something like this . . . but he’s in London . . . I’ll be
 far away by the time he gets back. . . .”
@@ -9366,14 +7440,7 @@ For the first time, a spasm of fear flitted across Quirrell’s face.
 “Sometimes,” he said, “I find it hard to follow my master’s instructions — he is a great wizard and I am weak —”
 “You mean he was there in the classroom with you?” Harry
 gasped.
-
-
 290
-
-
-
-THE MAN
-WITH TWO FACES
 “He is with me wherever I go,” said Quirrell quietly. “I met
 him when I traveled around the world. A foolish young man I was
 then, full of ridiculous ideas about good and evil. Lord Voldemort
@@ -9400,13 +7467,7 @@ He tried to edge to the left, to get in front of the glass without
 Quirrell noticing, but the ropes around his ankles were too tight:
 he tripped and fell over. Quirrell ignored him. He was still talking
 to himself.
-
-
 291
-
-
-
-CHAPTER SEVENTEEN
 “What does this mirror do? How does it work? Help me,
 Master!”
 And to Harry’s horror, a voice answered, and the voice seemed to
@@ -9434,14 +7495,7 @@ Harry screwed up his courage.
 “I see myself shaking hands with Dumbledore,” he invented.
 “I — I’ve won the House Cup for Gryffindor.”
 Quirrell cursed again.
-
-
 292
-
-
-
-THE MAN
-WITH TWO FACES
 “Get out of the way,” he said. As Harry moved aside, he felt the
 Sorcerer’s Stone against his leg. Dare he make a break for it?
 But he hadn’t walked five paces before a high voice spoke,
@@ -9467,13 +7521,7 @@ Harry tried to take a step backward but his legs wouldn’t move.
 there have always been those willing to let me into their hearts
 and minds. . . . Unicorn blood has strengthened me, these past
 weeks . . . you saw faithful Quirrell drinking it for me in the forest . . . and once I have the Elixir of Life, I will be able to create a
-
-
 293
-
-
-
-CHAPTER SEVENTEEN
 body of my own. . . . Now . . . why don’t you give me that Stone in
 your pocket?”
 So he knew. The feeling suddenly surged back into Harry’s legs.
@@ -9501,14 +7549,7 @@ pain, looking at his fingers — they were blistering before his eyes.
 “Seize him! SEIZE HIM!” shrieked Voldemort again, and Quirrell lunged, knocking Harry clean off his feet, landing on top of
 him, both hands around Harry’s neck — Harry’s scar was almost
 blinding him with pain, yet he could see Quirrell howling in agony.
-
-
 294
-
-
-
-THE MAN
-WITH TWO FACES
 “Master, I cannot hold him — my hands — my hands!”
 And Quirrell, though pinning Harry to the ground with his
 knees, let go of his neck and stared, bewildered, at his own
@@ -9536,13 +7577,7 @@ How strange.
 He blinked again. The smiling face of Albus Dumbledore swam
 into view above him.
 “Good afternoon, Harry,” said Dumbledore.
-
-
 295
-
-
-
-CHAPTER SEVENTEEN
 Harry stared at him. Then he remembered: “Sir! The Stone! It
 was Quirrell! He’s got the Stone! Sir, quick —”
 “Calm yourself, dear boy, you are a little behind the times,” said
@@ -9569,14 +7604,7 @@ worried.”
 to prevent that, although you were doing very well on your own, I
 must say.”
 “You got there? You got Hermione’s owl?”
-
-
 296
-
-
-
-THE MAN
-WITH TWO FACES
 “We must have crossed in midair. No sooner had I reached London than it became clear to me that the place I should be was the
 one I had just left. I arrived just in time to pull Quirrell off you —”
 “It was you.”
@@ -9603,13 +7631,7 @@ next great adventure. You know, the Stone was really not such a
 wonderful thing. As much money and life as you could want! The
 two things most human beings would choose above all — the trouble is, humans do have a knack of choosing precisely those things
 that are worst for them.”
-
-
 297
-
-
-
-CHAPTER SEVENTEEN
 Harry lay there, lost for words. Dumbledore hummed a little
 and smiled at the ceiling.
 “Sir?” said Harry. “I’ve been thinking . . . Sir — even if the
@@ -9634,14 +7656,7 @@ course, lie.”
 “Well . . . Voldemort said that he only killed my mother because
 she tried to stop him from killing me. But why would he want to
 kill me in the first place?”
-
-
 298
-
-
-
-THE MAN
-WITH TWO FACES
 Dumbledore sighed very deeply this time.
 “Alas, the first thing you ask me, I cannot tell you. Not today.
 Not now. You will know, one day . . . put it from your mind for
@@ -9666,13 +7681,7 @@ kitchens to steal food when he was here.”
 “Fire away.”
 “Quirrell said Snape —”
 “Professor Snape, Harry.”
-
-
 299
-
-
-
-CHAPTER SEVENTEEN
 “Yes, him — Quirrell said he hates me because he hated my father. Is that true?”
 “Well, they did rather detest each other. Not unlike yourself and
 Mr. Malfoy. And then, your father did something Snape could
@@ -9698,14 +7707,7 @@ even me sometimes. . . . Now, enough questions. I suggest you
 make a start on these sweets. Ah! Bertie Bott’s Every Flavor Beans!
 I was unfortunate enough in my youth to come across a vomitflavored one, and since then I’m afraid I’ve rather lost my liking for
 them — but I think I’ll be safe with a nice toffee, don’t you?”
-
-
 300
-
-
-
-THE MAN
-WITH TWO FACES
 He smiled and popped the golden-brown bean into his mouth.
 Then he choked and said, “Alas! Ear wax!”
 Madam Pomfrey, the nurse, was a nice woman, but very strict.
@@ -9734,13 +7736,7 @@ turban, Hermione screamed out loud.
 “So the Stone’s gone?” said Ron finally. “Flamel’s just going to
 die?”
 “That’s what I said, but Dumbledore thinks that — what was
-
-
 301
-
-
-
-CHAPTER SEVENTEEN
 it? — ‘to the well-organized mind, death is but the next great adventure.’ ”
 “I always said he was off his rocker,” said Ron, looking quite impressed at how crazy his hero was.
 “So what happened to you two?” said Harry.
@@ -9766,20 +7762,7 @@ the last Quidditch match, we were steamrollered by Ravenclaw
 without you — but the food’ll be good.”
 At that moment, Madam Pomfrey bustled over.
 “You’ve had nearly fifteen minutes, now OUT,” she said firmly.
-
-
 302
-
-
-
-THE MAN
-WITH TWO FACES
-
-
-
-
-
-
 After a good night’s sleep, Harry felt nearly back to normal.
 “I want to go to the feast,” he told Madam Pomfrey as she
 straightened his many candy boxes. “I can, can’t I?”
@@ -9808,13 +7791,7 @@ Hagrid wiped his nose on the back of his hand and said, “That
 reminds me. I’ve got yeh a present.”
 “It’s not a stoat sandwich, is it?” said Harry anxiously, and at last
 Hagrid gave a weak chuckle.
-
-
 303
-
-
-
-CHAPTER SEVENTEEN
 “Nah. Dumbledore gave me the day off yesterday ter fix it.
 ’Course, he shoulda sacked me instead — anyway, got yeh this . . .”
 It seemed to be a handsome, leather-covered book. Harry opened
@@ -9839,14 +7816,7 @@ teeth into our delicious feast. What a year it has been! Hopefully
 your heads are all a little fuller than they were . . . you have the
 whole summer ahead to get them nice and empty before next year
 starts. . . .
-
-
 304
-
-
-
-THE MAN
-WITH TWO FACES
 “Now, as I understand it, the House Cup here needs awarding,
 and the points stand thus: In fourth place, Gryffindor, with three
 hundred and twelve points; in third, Hufflepuff, with three hundred and fifty-two; Ravenclaw has four hundred and twenty-six and
@@ -9873,13 +7843,7 @@ logic in the face of fire, I award Gryffindor House fifty points.”
 Hermione buried her face in her arms; Harry strongly suspected
 she had burst into tears. Gryffindors up and down the table were
 beside themselves — they were a hundred points up.
-
-
 305
-
-
-
-CHAPTER SEVENTEEN
 “Third — to Mr. Harry Potter . . .” said Dumbledore. The room
 went deadly quiet. “. . . for pure nerve and outstanding courage, I
 award Gryffindor House sixty points.”
@@ -9907,14 +7871,7 @@ for even Ravenclaw and Hufflepuff were celebrating the downfall
 of Slytherin, “we need a little change of decoration.”
 He clapped his hands. In an instant, the green hangings became
 scarlet and the silver became gold; the huge Slytherin serpent vanished and a towering Gryffindor lion took its place. Snape was
-
-
 306
-
-
-
-THE MAN
-WITH TWO FACES
 shaking Professor McGonagall’s hand, with a horrible, forced
 smile. He caught Harry’s eye and Harry knew at once that Snape’s
 feelings toward him hadn’t changed one jot. This didn’t worry
@@ -9940,13 +7897,7 @@ boarding the Hogwarts Express; talking and laughing as the countryside became gr
 Beans as they sped past Muggle towns; pulling off their wizard
 robes and putting on jackets and coats; pulling into platform nine
 and three-quarters at King’s Cross station.
-
-
 307
-
-
-
-CHAPTER SEVENTEEN
 It took quite a while for them all to get off the platform. A wizened old guard was up by the ticket barrier, letting them go
 through the gate in twos and threes so they didn’t attract attention by all bursting out of a solid wall at once and alarming the
 Muggles.
@@ -9972,14 +7923,7 @@ Weasley.”
 “Ready, are you?”
 It was Uncle Vernon, still purple-faced, still mustached, still
 looking furious at the nerve of Harry, carrying an owl in a cage in
-
-
 308
-
-
-
-THE MAN
-WITH TWO FACES
 a station full of ordinary people. Behind him stood Aunt Petunia
 and Dudley, looking terrified at the very sight of Harry.
 “You must be Harry’s family!” said Mrs. Weasley.
@@ -9993,14 +7937,8 @@ so unpleasant.
 was spreading over his face. “They don’t know we’re not allowed to
 use magic at home. I’m going to have a lot of fun with Dudley this
 summer. . . .”
-
-
-
 309
-
-
-
-This book
+This book
 was art directed by
 David Saylor and designed by Becky
 Terhune. The art for both the jacket and interior was
@@ -10010,5 +7948,3 @@ Slimbach in 1989. The book was printed and bound
 at RR Donnelley & Sons, Willard, Oh.
 The production was supervised by
 Angela Biola
-
-
