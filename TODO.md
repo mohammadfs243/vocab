@@ -1,0 +1,1 @@
+- [ ] Remove duplication in declaring environment variables (init.sh and tmuxp.yaml)

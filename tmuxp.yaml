@@ -1,0 +1,28 @@
+session_name: nlp
+start_directory: .
+environment:
+  DB_DOCKER_NAME: nlp-db
+  DB_NAME: nlp
+  DB_USER: nlp
+  DB_PASSWORD: top_secret
+  DB_HOST: localhost
+  DB_PORT: "12345"
+before_script: "./init.sh"
+shell_command_before:
+  - source init.sh
+  - source .venv/bin/activate
+  - clear
+windows:
+  - window_name: main
+    focus: true
+    layout: even-horizontal
+    panes:
+      - focus: true
+  - window_name: shell
+    layout: even-horizontal
+    panes:
+      - ipython
+  - window_name: db
+    panes:
+      - shell_command:
+          - psql 'postgres://'$DB_USER':'$DB_PASSWORD'@'$DB_HOST':'$DB_PORT'/'$DB_NAME

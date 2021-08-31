@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 spacy = "<3.2,>=3.1"
+peewee = "<3.15,>=3.14"
+psycopg2-binary = "<3,>=2.9"
 
 [dev-packages]
 ipython = "*"
